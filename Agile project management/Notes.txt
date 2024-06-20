@@ -1,0 +1,529 @@
+               Agile project management
+
+Project management : Need for change 
+
+Flaws and weakness in historical approaches to project management and the requirement in the current period
+Time required to push changes
+
+
+Agile model provides
+	•	More control on your project
+	•	Better productivity & quality
+	•	Higher Customer Satisfaction
+	•	Higher Return on Investment
+
+
+What is Agile?
+https://agilemanifesto.org/
+Manifesto for Agile Software Development
+
+We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
+Individuals and interactions over processes and tools Working software over comprehensive documentation Customer collaboration over contract negotiation Responding to change over following a plan
+That is, while there is value in the items on the right, we value the items on the left more.
+4 values and 
+12 principle 
+https://agilemanifesto.org/principles.html
+We follow these principles:
+Principles behind the Agile Manifesto
+Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
+Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+Business people and developers must work together daily throughout the project.
+Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+Working software is the primary measure of progress.
+Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+Continuous attention to technical excellence and good design enhances agility.
+Simplicity--the art of maximizing the amount of work not done--is essential.
+The best architectures, requirements, and designs emerge from self-organizing teams.
+At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+12 principle :
+	1)	Customer Satisfaction
+	2)	welcome change
+	3)	Deliver Frequently
+	4)	Working together
+	5)	Motivated team
+	6)	Face-to-face
+	7)	working software
+	8)	Constant pace
+	9)	Good design
+	10)	Simplicity
+	11)	Self Organisation
+	12)	Reflect and Adjust
+Agile is a mindset —> Described by 4 values —> 12 principles—> manifested through unlimited number of practices ( KANBAN, SCRUM, SAFe)
+
+The Agile Test 
+	1)	Does what we’re doing  at the moment support  the early and continuous delivery of valuable software?
+	2)	Does our process welcome and take advantage of change?
+	3)	Does our process leas to and support the delivery if working functionality ? Are the developers and the product owner working together daily?
+	4)	Are customers and business stakeholders working closely with the project team?
+	5)	Does our environment give the development team the support it needs to get the job done?
+	6)	Are we communicating face to face more than through phone and email?
+	7)	Are we measuring progress by the amount of working functionality produced?
+	8)	can we maintain this pace indefinitely?
+	9)	Do we maximising the amount of work not done - namely, doing as little as necessary to fulfil the goal of the project?
+	10)	Is the development team self - organising and self - managing ? Does it have the freedom to succeed?
+	11)	Are we reflecting at regular intervals and adjusting our behaviour accordingly?
+If answer of all the Question is yes then congruculations you are truly working on agile model. If any of Question ans is no what can you do to change that answer to no.
+What Agile is not?
+Agile is not a process or methodology
+A agile is not 
+	⁃	A specific way of doing software development
+	⁃	A framework, standard or a process
+	⁃	A end-goal by itself
+	⁃	An excuse to stop reducing documentation or an opportunity to eliminate planning
+	⁃	One size fits all
+	⁃	Scrum - Scrum follows Agile principles
+	⁃	Kanban - Kanban applies Agile principles
+	⁃	Limited to so software development 
+Agile Overview Summary
+	•	Refer to any process that align with concept of agile manifesto
+	•	Based on incremental, iterative approach
+	•	Encourage constant feedback from end user
+	•	Deliver value faster and foster the ability to better respond to market trends.
+Difference and Similarities : waterfall vs agile
+Waterfall
+Built in phases
+Painful to revisit previous phases
+High dependancy on critical paths
+Customer can’t interact with product until it’s fully complete
+Agile Project Management : Build, deliver, learn and adjust
+Follows iterative approach
+Regular feedback intervals
+Iterations resolve blocking issue & let you interact with the product
+Quick adapt new requirement /changes
+Shared skillset among the team
+
+Difference between waterfall and agile 
+                                                    Waterfall                       Agile.  
+Sequential 				X				
+Flexible								    X
+Accommodation changes					    X
+Defined requirements	        		X			
+Deliver quality products 		X			   X
+Continually evolving						  X
+Rigid process				X
+
+Which to choose : Agile or waterfall?
+Use Waterfall if………………
+	•	You don’t expect changes in scope and you’re working with fixed-price contracts
+	•	The project is very simple or you’ve doe it many time before
+	•	Requirements are very well known and fixed
+	•	Customers know exactly what they want in advance
+	•	You’re working with orderly and predictable project
+Use Agile if………………
+	•	The final product isn’t clearly defined
+	•	The clients/ stakeholders need the ability to modify the scope
+	•	You anticipate any kind of changes during the project
+	•	Rapid deployment is the goal
+Advantages and Disadvantages of Agile
+Advantages:
+	•	change is embraced
+	•	End- goal can be unknown
+	•	faster, high- quality delivery
+	•	Strong team interaction
+	•	Customers are heard
+	•	Continuous improvement
+Disadvantages of agile
+	•	Planning can be less concrete
+	•	Team must be knowledgeable
+	•	Time commitment from developers is required
+	•	Documentation can be neglected
+Key Agile Concept
+User Story :
+	•	Work divided into functional increments called “user stories”
+	•	Short description of a feature from the perspective of the person who desire the new adaptability
+	•	User story should be potentially shippable
+	•	Size of a user story is measured  in story points 
+User story : 
+	1)	Role. (Who)
+	2)	Action/Goal (What)
+	3)	benefit (Why)
+	4)	Acceptance criteria (set of predefined criteria)
+	⁃	Should be testable
+	⁃	Should be clear and concise
+	⁃	Everyone must understand
+	⁃	Should provide user prospective
+User Story Example
+	•	As a [customer], I want [shopping cart feature] so that [I can easily purchase items online].
+	•	As a [manager], I want to [generate a report]so that [I can understand which departments need more resources]
+A good user story should be: INVEST
+	•	“I” ndependent ( of all others)
+	•	“N” negotiable (not a specific contract for feature)
+	•	“V” aluable
+	•	“E” estimate (to a good approximation)
+	•	“S” mall (so as to fit within an iteration)
+	•	“T” estable (in principle, even if there isn’t a test for it yet)
+Example of a good user story
+As an [online visitor], I want [add products in my shopping cart] so that [I can purchase multiple products at one go]
+Acceptance Criteria [Abstract]
+	•	Products can be added to the cart
+	•	Products can be removed from the cart
+	•	Shopping cart will be empty initially
+	•	Shopping cart will be empty after purchase
+	•	Products can be added with the multiple quantities in the cart 
+	•	Shopping cart will show the total product breakdown quantity and cost is grand total
+Epic
+	•	Series of user stories with a broader strategic objective
+	•	A large user story that cannot be divided as defined within single iteration or is large enough that it can be split into smaller user tasks/user stories.
+	•	No standard format to represent epics.
+Epic (Major component)
+|
+						Story 1.         Story 2        Story 3  (building blocks)
+Epic Example: Selecting marketing Campaigns
+1. As a VP marketing, I want to review the performance of historical promotional campaigns so that I can identify and repeat profitable campaigns.
+Further then can be divided
+Initiatives:
+	•	Initiatives are collections of epics that drive toward a common goal
+	•	The product roadmap is expressed and visualised as a set of initiatives plotted along with a timeline.
+	•	Completion of epics will lead to the completion of the initiative.
+Themes:
+	•	Themes are large focus areas that span the organisation
+	•	A theme is a n organisation goal that drive the creation of epics and initiatives
+Theme —>  Initiative —> Epic —> Story
+Benefits of using the Theme-Initiative-Epic-Story Development framework
+	•	It allows for more strategically sound decisions
+	•	It improves performance monitoring and timeline estimates
+	•	It keeps the team focus on key goals
+Product Backlog
+	•	List & Priorities the task-level details to execute a plan- To do list!
+	•	Include user stories, new feature, changes to existing functionalities, bug fixes, and other task Luke infrastructure changes etc
+	•	Single source of requirement that define the product
+	•	Contains short description of functionality desired in the product
+	•	can be represented in physical form or in electronic form
+	•	owned and maintained by the product owner.
+	•	user stories is the most common format
+	•	Dynamic in nature :an addition, deletion and reordering as per requirment.
+Product vision —> product goals —> Product Roadmap —> Release plan & backlog 
+Difference between a Product backlog and Product Roadmap
+    			 Product Roadmap			Product backlog
+Content.     High level:theme or epics                 Task level: user stories and defects
+Audience      Executive team 			     Primary for product and development  team
+Intent           Convey a strategy			    conveys tactical steps in execution of plan
+Time frame   Varies, typically ~3 Months	    	  1 or 2 sprints
+
+Burn Down Chart
+A burndown chart is a visual display display of work completed and remaining in a project, sprint or iteration
+Benefits
+	•	Simple & easy way to track team’s progress
+	•	Timely prevention of issues
+	•	Helps keep the team motivated
+Creating a Burndown chart
+Time on X axis
+Work remainingTask on Y axis
+Calender days
+Estimate
+Actual
+01-Oct
+10
+10
+02-Oct
+10
+10
+03-Oct
+10
+10
+04-Oct
+9
+10
+05-Oct
+8
+7
+06-Oct
+7
+6
+07-Oct
+6
+6
+08-Oct
+5
+6
+09-Oct
+4
+4
+10-Oct
+4
+4
+11-Oct
+4
+4
+12-Oct
+3
+3
+13-Oct
+2
+2
+14-Oct
+1
+1
+
+Minimum viable Product (MVP)
+It is the version of new product that allows a team to collect the maximum amount of validated learning about customers with the least amount of effort.
+Use Case:
+Your target audience needs a specific means of transport but they are not sure if the want to buy a premium product away.
+What you do then?
+Create the most basic version of the product —> gather feedback of your product
+Why MVP?
+	•	release a product to the market as quickly as possible
+	•	test an idea with real user before committing a large budget to the product’s full development.
+	•	learn what resonates with the company’s target market and what doesn’t
+Important Point to be noted:
+	•	make sue your planned MVP align with your business objectives
+	•	Identify specific problems you want to solve for your users
+	•	product must be viable
+	•	MVP is based on iterative processs of building
+Eg airbnb , Facebook, virgin airline
+Velocity
+At the end of each iteration, the team adds up effort estimates associated with user stories that were completed during the iteration. This total is called velocity.
+Velocity = units of work completed in a given timeframe
+Work =unit of work can be hours or user stories or story points
+Timeframe = Typically measured in iteartion or sprint or weak
+Sprint 1 velocity = 11
+Sprint 2 velocity = 13
+Sprint 3 velocity = 6
+Average velocity = (11+13+6)/3 = 10 story Points/Sprint
+ Total story points against Remaining is 60
+So 60/10=6 sprints
+Agile Estimation
+Traditional estimation.                            
+Agile Estimation   
+Efforts were estimated			      Business values or complexity is estimated
+Unit:Hours					     Units : Story Point or bucket
+Estimation is done in task level		     Estimation is done in user story level
+Provides absolute estimate		      provide relative estimate
+Estimates once done are not Revised.    Estimation are revised in every iteration.
+T-shirt sizes(XS, S, M, L, XL)
+Small - 1 point 
+Medium - 2-3 Point
+Large - 5 point
+Extra large - 8 point
+Fibonacci Sequence
+1, 2, 3 is equivalent to 10, 20, 30
+0,1,1,2,3,5,8,13,21,34,55,89…. And so on
+0+1=1
+1+1=2
+1+2=3
+In agile estimation, slightly modified version of Fibonacci estimation is used
+1,2,3,5,8,13,21,34,89…and so on.
+Why Use the Fibonacci sequence for agile estimation?
+(Stories building example)
+Story points are relative.
+1. Quick to deliver and minimal complexity. An hour
+2. Quick to deliver and some complexity . Multiple hours
+3. Moderate time to deliver, moderate complexity, possible unknowns
+5. Longer time to deliver, high complexity, likely unknowns
+8. Long time to deliver, high complexity, critical unknowns
+13. Long time to delivery, high complexity , many critical unknowns
+21. You’re doing this wrong
+Agile Estimation Technique for user story
+	•	Delphi
+	•	Wide band Delphi
+	•	Complexity Bucket
+	•	Estimation Poker
+Estimation poker : scrum master, product owner, developer, tester
+Affinity estimating - to handle large number of stories
+Introduction to Scrum
+Scrum is a process framework used to manage product developent and other knowledge work
+Scrum is a set of rules for structuring the team, processes and techniques for making the development process agile.
+4 component of scrum framework
+	•	Scrum Team
+	•	Scrum rules
+	•	Scrum Events
+	•	Scrum Artifacts
+Three Pillars of Scrum:
+	▪	Transparency - Required information is available and flows properly
+	▪	Inspection - Regular monitoring for early detection of issue
+	▪	Adaptation - course correction to prevent further deviation
+Scrum Team
+Product Owner
+Development Team
+Scrum master (ensure proper practical implementation of all concepts)
+Scrum Events
+	•	Sprint
+	•	Sprint Planning
+	•	Daily Scrum
+	•	Sprint Review
+	•	Sprint Retrospective
+Feature of scrum events
+	•	Regular: Events can be monthly/weekly/daily
+	•	Time boxed: limit on the duration of these events. Daily scrum is 15 minute meeting
+	•	Based on 3 pill of transparency, inspection and adaptation.
+Scrum Artifacts
+There are 3:
+	1)	Product Backlog
+	2)	Sprint Backlog
+	3)	Increment
+Product Backlog:
+At initial stage starting of the process
+As a later stage when requirement change(Ever Evolving) (NeverFixed)
+—> add details to new requirements
+Backlog Refinement <=10% of the capacity of development team
+Sprint Backlog:
+Daily monitoring of sprint backlog is done in the daily scrum
+Owned by development team
+Any deviation from the goal should be highlighted to product owner and stockholder immediately.
+Increment
+Increment is the final releasable product
+	•	It should be useable
+	•	It should be inspectable
+	•	It should include increment of previous sprint
+Definition of “Done” 
+Advantages and Disadvantages of Scrum:
+Advantages of scrum:
+	•	More transparency and project visibility
+	•	Increased team accountability
+	•	Easy to accommodate changes
+	•	Increased cost savings
+	•	Faster Delivery
+	•	Customers are heard
+	•	Disadvantages of Scrum:
+	•	Risk of scope creep
+	•	Team requires experience and commitment
+	•	The wrong scrum master can ruin everything
+	•	Poorly defined tasks can lead to inaccuracies
+
+Introduction to kanban
+Flexible and easy to implement method for process inprovement
+Kanban = a Japanese word
+Kan= Card
+Ban = Signal
+TOYOTA =identified bottlenecks in the car making process using Kannan
+Visualising the workflow to achieve process improvement
+Kanban = physical Kannan board
+Or software based board
+
+Finding inefficiencies in the process
+Situation: Too much work in process (WIP) on a single stage (Limiting the WIP)
+Suggestion :More team members need to work on the stage  (for eg testing stage is the scenario
+) instead of any previous stage
+
+Limiting the WIP:
+	•	A limit is set on the maximum number of task that can be present in a column or that step at a time
+	•	No further inflow into the step until the pending tasks in that step are cleared
+	•	WIP limits can be set on all the steps
+	•	How do we decide what limit to set?
+
+Underutilisation of Resources
+Situation:pending tasks not moving to the next step
+Suggestion : reallocate the resources somewhere else where they can be utilised optimally
+
+Kanban is also known as Pull based system
+
+Push based system = manager/team leader —? Assign task —>team member
+Pull based system <— team members can themselves pull the most relevant tasks out of the list of tasks to be done
+
+Pull based system are:
+	⁃	Optimises the work flow
+	⁃	reduce lead time
+	⁃	Reduces over load on worker
+
+Unequal-Sized tasks
+To solve this problem add a box in starting have heading scoping/ analysing/ specifying which check all task should have same size
+Situation: task is taking longer time that it should be
+Suggestion: keep a regular track of the board break down the task into smaller sized task
+
+Reason: Unequal size task
+Suggestion : break down the task into smaller sized task
+Reason: task is struck due to some bug or issue
+Suggestions : keep a regular track of the board 
+
+Marketing the task
+
+Situation: Multiple feedback loops 
+Suggestion: Make a mark on the task foe the number of rounds that task is going for rework
+
+Other issues
+
+Situation: Having a lot of external dependencies
+Suggestion: Develop a practice of regular follow ups on tasks listed in “tracking” column. No need of a WIP limit on this column
+
+Situation : Team required to work on non-product features
+Suggestion: Create a task for such feature and keep a track on the same 
+
+Situation  :  Automate/ Upgrade tasks
+Suggestion : Add such improvement task also on the  board 
+
+Situation : Assigning work to new person
+Suggestion : Assign the new person to slowest step 
+
+Definition of “Done” in kanban:
+	•	If a step is complete on a task, it does not necessarily mean that the task moves to the next step
+	•	Task will simply sit in the done column of the previous step
+	•	Do not seperate WIP limits for sub columns “in progress” and “done”
+	•	Write “Done” rules as notes on the kanban board
+	•	Always check if the rule for “Done” were met in previous step or not
+
+The daily Standup 
+ Kanban id flexible no such rules 
+How long the meeting will be?
+Who will bw handling the meeting?
+What will be discussed in the meeting?
+
+Any team member can run he meeting even a fresher
+No fixed duration of the meeting ,demand on the team experience
+ Daily stand up is the time to get the board up-to-date, identify issues, highlight problem if any etc.
+
+Daily stand up is not a review meeting or demo of feature built or discussion about the product.
+
+Specifying Rules in Kanban:
+Rules are not fixed 
+Writing WIP limit o the top of column
+Define “Done”
+
+Extreme Programming
+Extreme Programming (XP) is an agile software development framework that aims to produce higher quality software, and higher quality of life for the development team. XP is the most specific of the agile framework regarding appropriate engineering practices for software development.
+
+Why it is called extreme programming ? Code review
+
+XP wast introduced 1996 by Kent beck 
+
+Extreme programming is all about:
+	•	Client satisfaction
+	•	Bringing the social change
+	•	Adaptiveness
+
+It ran into controversy around:
+	•	Pair programing
+	•	Incremental design
+	•	Scalability
+
+Values behind XP practices and methods:
+	•	Simplicity : do the simplest thing that could possibly work.
+	•	Communication
+	•	Courage 
+	•	Feedback
+	•	Respect
+
+2 types  0f practice:
+Primary
+Corollary
+
+Primary practices :
+Part 1
+
+	•	Sit together
+	•	Whole team
+	•	Informative workspace (visual and information)
+	•	Energised work 
+	•	pair programming
+
+Part 2:
+	•	Stories
+	•	Quarterly cycle ( quarter 1, quarter 2……..)
+	•	Slack (some buffer time )
+	•	Ten-Minute Build
+	•	Continuous Integration
+	•	Test First Programming(write fail automated test —>run failing test —>develop code to make pass —>run test —> repeat)
+	•	Incremental Design
+
+
+
+
+
+
+
+               
+
+
+
+
