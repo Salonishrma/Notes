@@ -1,0 +1,300 @@
+  Agile Kanban : Kanban for Software Development Teams 
+
+Flexible and easy to implement method for process improvement
+Kan = card
+Ban = Signal
+Used for monitoring car Toyota 
+Visualizing the workflow to achieve process improvement
+
+Process Improvement Identifying inefficiencies/ issues
+
+Situation : too much work in progress (WIP) on a single stage Limiting the WIP
+Suggestion : More team member need to work on that stage instead of any previous scenerio
+
+Limiting the WIP
+	•	A limit is set on the maximum number of task that can be present in a column or that step at a time
+	•	No further inflow into the step until the pending tasks in that step are cleared
+	•	WIP limits can be set on all the steps
+	•	How do we decide what limit to set?
+
+Underutilisation of resources
+Situation : pending task not moving to the next step
+Suggestion : Reallocation the resources somewhere else where they can be utilised optimally
+Push based system = manager/team leader —? Assign task —>team member
+Pull based system <— team members can themselves pull the most relevant tasks out of the list of tasks to be done
+
+Pull based system are:
+	⁃	Optimises the work flow
+	⁃	reduce lead time
+	⁃	Reduces over load on worker
+
+Unequal- Sized tasks
+To solve this problem add a box in starting have heading scoping/ analysing/ specifying which check all task should have same size
+Situation: task is taking longer time that it should be
+Suggestion: keep a regular track of the board break down the task into smaller sized task
+
+Reason: Unequal size task
+Suggestion : break down the task into smaller sized task
+Reason: task is struck due to some bug or issue
+Suggestions : keep a regular track of the board 
+
+Marking the Tasks
+Situation: Multiple feedback loops 
+Suggestion: Make a mark on the task foe the number of rounds that task is going for rework
+
+Other issues
+
+Situation: Having a lot of external dependencies
+Suggestion: Develop a practice of regular follow ups on tasks listed in “tracking” column. No need of a WIP limit on this column
+
+Situation : Team required to work on non-product features
+Suggestion: Create a task for such feature and keep a track on the same 
+
+Situation  :  Automate/ Upgrade tasks
+Suggestion : Add such improvement task also on the  board 
+
+Situation : Assigning work to new person
+Suggestion : Assign the new person to slowest step 
+
+Kanban Practices
+Defining Done
+	•	If a step is complete on a task, it does not necessarily mean that the task moves to the next step
+	•	Task will simply sit in the done column of the previous step
+	•	Do not have separate WIP limits for sub columns “in progress” and “done”
+	•	Write “Done” rules as notes on the kanban board
+	•	Always check if the rule for “Done” were met in previous step or not
+
+
+The daily Standup 
+ Kanban id flexible no such rules 
+How long the meeting will be?
+Who will bw handling the meeting?
+What will be discussed in the meeting?
+
+	•	Any team member can run he meeting even a fresher
+	•	No fixed duration of the meeting ,demand on the team experience
+	•	Daily stand up is the time to get the board up-to-date, identify issues, highlight problem if any etc.
+	•	Daily stand up is not a review meeting or demo of feature built or discussion about the product etc.
+
+Specifying Rules in Kanban:
+Rules are not fixed 
+Writing WIP limit o the top of column
+Define “Done”
+
+Key Agile Concepts
+
+Introduction to agile concepts
+User Story
+	•	Work divided into functional increments called “user stories”
+	•	Short description of a feature from the perspective of the person who desire the new adaptability
+	•	User story should be potentially shippable
+	•	Size of a user story is measured  in story points 
+User story : 
+	1)	Role. (Who)
+	2)	Action/Goal (What)
+	3)	benefit (Why)
+	4)	Acceptance criteria (set of predefined criteria)
+	⁃	Should be testable
+	⁃	Should be clear and concise
+	⁃	Everyone must understand
+	⁃	Should provide user prospective
+User Story Example
+	•	As a [customer], I want [shopping cart feature] so that [I can easily purchase items online].
+	•	As a [manager], I want to [generate a report]so that [I can understand which departments need more resources]
+A good user story should be: INVEST
+	•	“I” ndependent ( of all others)
+	•	“N” negotiable (not a specific contract for feature)
+	•	“V” aluable
+	•	“E” estimate (to a good approximation)
+	•	“S” mall (so as to fit within an iteration)
+	•	“T” estable (in principle, even if there isn’t a test for it yet)
+Example of a good user story
+As an [online visitor], I want [add products in my shopping cart] so that [I can purchase multiple products at one go]
+Acceptance Criteria [Abstract]
+	•	Products can be added to the cart
+	•	Products can be removed from the cart
+	•	Shopping cart will be empty initially
+	•	Shopping cart will be empty after purchase
+	•	Products can be added with the multiple quantities in the cart 
+	•	Shopping cart will show the total product breakdown quantity and cost is grand total
+
+Product owner and buisness analyst will write acceptance criteria
+
+Agile Concept: product backlog
+•	List & Priorities the task-level details to execute a plan- To do list!
+	•	Include user stories, new feature, changes to existing functionalities, bug fixes, and other task Luke infrastructure changes etc
+	•	Single source of requirement that define the product
+	•	Contains short description of functionality desired in the product
+	•	can be represented in physical form or in electronic form
+	•	owned and maintained by the product owner.
+	•	user stories is the most common format
+	•	Dynamic in nature :an addition, deletion and reordering as per requirment.
+Product vision —> product goals —> Product Roadmap —> Release plan & backlog 
+Difference between a Product backlog and Product Roadmap
+    			 Product Roadmap			Product backlog
+Content.     High level:theme or epics                 Task level: user stories and defects
+Audience      Executive team 			     Primary for product and development  team
+Intent           Convey a strategy			    conveys tactical steps in execution of plan
+Time frame   Varies, typically ~3 Months	    	  1 or 2 sprints
+
+Agile Concepts:  Theme, Epic and story
+
+Epic
+	•	Series of user stories with a broader strategic objective
+	•	A large user story that cannot be divided as defined within single iteration or is large enough that it can be split into smaller user tasks/user stories.
+	•	No standard format to represent epics.
+Epic (Major component)
+|
+						Story 1.         Story 2        Story 3  (building blocks)
+Epic Example: Selecting marketing Campaigns
+1. As a VP marketing, I want to review the performance of historical promotional campaigns so that I can identify and repeat profitable campaigns.
+Further then can be divided
+Initiatives:
+	•	Initiatives are collections of epics that drive toward a common goal
+	•	The product roadmap is expressed and visualised as a set of initiatives plotted along with a timeline.
+	•	Completion of epics will lead to the completion of the initiative.
+Themes:
+	•	Themes are large focus areas that span the organisation
+	•	A theme is a n organisation goal that drive the creation of epics and initiatives
+Theme —>  Initiative —> Epic —> Story
+Benefits of using the Theme-Initiative-Epic-Story Development framework
+	•	It allows for more strategically sound decisions
+	•	It improves performance monitoring and timeline estimates
+	•	It keeps the team focus on key goals
+
+Traditional estimation.                               Agile Estimation                     
+   
+Efforts were estimated			      Business values or complexity is estimated
+Unit:Hours					     Units : Story Point or bucket
+Estimation is done in task level		     Estimation is done in user story level
+Provides absolute estimate		                provide relative estimate
+Estimates once done are not Revised.            Estimation are revised in every iteration.
+
+Influencing Factors of story point:
+	•	Buisness value
+	•	Complexity
+	•	Risks
+	•	Dependencies
+	•	Amount of work
+
+Agile estimation methods:
+Aglie Estimation: T-Shirt and Fibonacci
+T-shirt sizes(XS, S, M, L, XL)
+Small - 1 point 
+Medium - 2-3 Point
+Large - 5 point
+Extra large - 8 point
+Fibonacci Sequence
+1, 2, 3 is equivalent to 10, 20, 30
+0,1,1,2,3,5,8,13,21,34,55,89…. And so on
+0+1=1
+1+1=2
+1+2=3
+In agile estimation, slightly modified version of Fibonacci estimation is used
+1,2,3,5,8,13,21,34,89…and so on.
+Why Use the Fibonacci sequence for agile estimation?
+(Stories building example)
+Story points are relative.
+1. Quick to deliver and minimal complexity. An hour
+2. Quick to deliver and some complexity . Multiple hours
+3. Moderate time to deliver, moderate complexity, possible unknowns
+5. Longer time to deliver, high complexity, likely unknowns
+8. Long time to deliver, high complexity, critical unknowns
+13. Long time to delivery, high complexity , many critical unknowns
+21. You’re doing this wrong
+Agile Estimation Technique for user story
+	•	Delphi
+	•	Wide band Delphi
+	•	Complexity Bucket
+	•	Estimation Poker
+Estimation poker : scrum master, product owner, developer, tester
+Affinity estimating - to handle large number of stories
+
+Burn Down Chart
+A burndown chart is a visual display display of work completed and remaining in a project, sprint or iteration
+Benefits
+	•	Simple & easy way to track team’s progress
+	•	Timely prevention of issues
+	•	Helps keep the team motivated
+Creating a Burndown chart
+Time on X axis
+Work remainingTask on Y axis
+Calender days
+Estimate
+Actual
+01-Oct
+10
+10
+02-Oct
+10
+10
+03-Oct
+10
+10
+04-Oct
+9
+10
+05-Oct
+8
+7
+06-Oct
+7
+6
+07-Oct
+6
+6
+08-Oct
+5
+6
+09-Oct
+4
+4
+10-Oct
+4
+4
+11-Oct
+4
+4
+12-Oct
+3
+3
+13-Oct
+2
+2
+14-Oct
+1
+1
+
+Minimum viable Product (MVP)
+It is the version of new product that allows a team to collect the maximum amount of validated learning about customers with the least amount of effort.
+Use Case:
+Your target audience needs a specific means of transport but they are not sure if the want to buy a premium product away.
+What you do then?
+Create the most basic version of the product —> gather feedback of your product
+Why MVP?
+	•	release a product to the market as quickly as possible
+	•	test an idea with real user before committing a large budget to the product’s full development.
+	•	learn what resonates with the company’s target market and what doesn’t
+Important Point to be noted:
+	•	make sue your planned MVP align with your business objectives
+	•	Identify specific problems you want to solve for your users
+	•	product must be viable
+	•	MVP is based on iterative processs of building
+Eg airbnb , Facebook, virgin airline
+Velocity
+At the end of each iteration, the team adds up effort estimates associated with user stories that were completed during the iteration. This total is called velocity.
+Velocity = units of work completed in a given timeframe
+Work =unit of work can be hours or user stories or story points
+Timeframe = Typically measured in iteartion or sprint or weak
+Sprint 1 velocity = 11
+Sprint 2 velocity = 13
+Sprint 3 velocity = 6
+Average velocity = (11+13+6)/3 = 10 story Points/Sprint
+ Total story points against Remaining is 60
+So 60/10=6 sprints
+
+
+
+
+
+
