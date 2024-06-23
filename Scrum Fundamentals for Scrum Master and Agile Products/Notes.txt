@@ -1,0 +1,297 @@
+ Scrum Fundamentals for Scrum Master and Agile Products
+
+Scrum is a process framework used to manage product development and other knowledge work
+Scrum is a set of rules for structuring the team, processes and techniques for making the development process agile.
+
+4 component of scrum framework
+	•	Scrum Team
+	•	Scrum rules
+	•	Scrum Events
+	•	Scrum Artifacts (list of the things to be done)
+
+Three Pillars of Scrum:
+	▪	Transparency - Required information is available and flows properly
+	▪	Inspection - Regular monitoring for early detection of issue
+	▪	Adaptation - course correction to prevent further deviation
+
+Scrum Team
+Product Owner
+Development Team
+Scrum master (ensure proper practical implementation of all concepts)
+
+Product owner
+Responsibility:
+	•	Maximise the total value of work done by the development team
+	•	Product backlog management
+	•	Organisation also provides authority to product owner
+
+Development Team
+Responsibility:
+	•	Deliver a potentially releasable product at the end of each Sprint
+Authority
+	•	how the work would be done is left to the development team
+
+Characteristics of scrum development team
+	•	It is cross-functional, no external dependency
+	•	it is self-organizing
+	•	No titles and sub teams within the development team
+	•	Team size: A team of 3 to 9 team members is good
+
+Scrum Master
+Responsibility
+	•	Ensure proper practical implementation of all concepts
+	•	All scrum related things such as maintaining the product backlog, helping the development team create high value products etc
+	•	Facilitating Scrum Events
+	•	Ensure Scrum Artifacts are properly maintained
+	•	Single point of contact to understand scrum
+
+Scrum Events
+	•	Sprint
+	•	Sprint Planning
+	•	Daily Scrum
+	•	Sprint Review
+	•	Sprint Retrospective
+
+Feature of scrum events
+	•	Regular: Events can be monthly/weekly/daily
+	•	Time boxed: limit on the duration of these events. Daily scrum is 15 minute meeting
+	•	Based on 3 pill of transparency, inspection and adaptation.
+
+
+Scrum Events 1: Sprint
+Period of x days 
+After x days product increment and then released
+
+Scrum Event 2 : Sprint Planning
+	•	Sprint planning happens once in each sprint
+	•	Entire scrum team : product owner, scrum master & development team must be a part of the event
+	•	Time box for the event is 8 hours (upper limit)
+	•	Two agendas
+   1) what is to be done in this sprint
+    2) Establish how it will be done
+
+What is to be done?
+Team velocity : how much work development was  able to do in th previous few sprints
+Estimation Poker 
+
+How it will be done?
+Plan is not fixed, it evolve as more clarity increases
+Development team will come up with the plan
+
+Scrum Event 3:daily Scrum
+Daily scrum is a 15-minute event done everyday, same place, same time
+	•	Event is primary for the development team
+	•	Scrum Master facilitates the event
+	•	Product owner can attend the event(not necessary)
+	•	Daily scrum is implementation of two pillars of scrum: Regular inspection & early adaptation
+
+3 important Question in daily scrum 
+	•	what did I do yesterday?
+	•	What will I do today?
+	•	any difficulties or impediments stopping me from the sprint goal?
+
+Scrum Event 4: Sprint Review
+Attendees
+	•	Entire Scrum Team : Product owner, scrum master, the development team & other stakeholder
+
+Objective
+	•	Help the scrum team work more effectively
+	•	Increase transparency within the team and between other stakeholder and scrum team
+Time box for the event is 4 hours or less
+
+What happens in Sprint Review?
+	1)	Product Owner invites all attendees
+	2)	Product Owner highlights completed & not completed items
+	3)	Development team share sprint experience, highlight challenges Development team demonstrates completed item Stakeholders may ask question on the demonstrated item
+	4)	Product owner opens the backlog & intiate discussion on what to do next. Priorities, budgets, timelines & capabilities etc. are discussed
+	5)	At the end of sprint review, product owner should have updated backlog
+
+
+Scrum Event 5: Sprint Retrospective
+Scrum team does this event
+Stakeholders not invited
+3 hours or less duration
+
+Agenda
+
+Inspect the performance of team
+What went well?
+What went wrong?
+
+At the end of scrum retrospective, scrum team should know:
+	•	Area of improvements
+	•	Plan of working on them
+
+Scrum Artifacts
+There are 3:
+	1)	Product Backlog
+	2)	Sprint Backlog
+	3)	Increment
+
+Scrum Artifact 1:Product Backlog:
+At initial stage starting of the process we make list of all requirement at that time
+
+As a later stage when requirement change(Ever Evolving) (NeverFixed)
+—> add details to new requirements
+Backlog Refinement <=10% of the capacity of development team
+
+Scrum Artifact 2:Sprint Backlog
+Daily monitoring of sprint backlog is done in the daily scrum
+Owned by development team
+Any deviation from the goal should be highlighted to product owner and stockholder immediately.
+
+Scrum Artifact 3:Increment
+Increment is the final releasable product
+	•	It should be useable
+	•	It should be inspectable
+	•	It should include increment of previous sprint
+Definition of “Done” 
+
+Advantages and Disadvantages of Scrum:
+Advantages of scrum:
+	•	More transparency and project visibility
+	•	Increased team accountability
+	•	Easy to accommodate changes
+	•	Increased cost savings
+	•	Faster Delivery
+	•	Customers are heard
+
+	•	Disadvantages of Scrum:
+	•	Risk of scope creep
+	•	Team requires experience and commitment
+	•	The wrong scrum master can ruin everything
+	•	Poorly defined tasks can lead to inaccuracies
+
+Burn Down Chart
+A burndown chart is a visual display display of work completed and remaining in a project, sprint or iteration
+Benefits
+	•	Simple & easy way to track team’s progress
+	•	Timely prevention of issues
+	•	Helps keep the team motivated
+
+Creating a Burndown chart
+Time on X axis
+Work remainingTask on Y axis
+Calender days
+Estimate
+Actual
+01-Oct
+10
+10
+02-Oct
+10
+10
+03-Oct
+10
+10
+04-Oct
+9
+10
+05-Oct
+8
+7
+06-Oct
+7
+6
+07-Oct
+6
+6
+08-Oct
+5
+6
+09-Oct
+4
+4
+10-Oct
+4
+4
+11-Oct
+4
+4
+12-Oct
+3
+3
+13-Oct
+2
+2
+14-Oct
+1
+1
+
+Minimum viable Product (MVP)
+It is the version of new product that allows a team to collect the maximum amount of validated learning about customers with the least amount of effort.
+Use Case:
+Your target audience needs a specific means of transport but they are not sure if the want to buy a premium product away.
+What you do then?
+Create the most basic version of the product —> gather feedback of your product
+Why MVP?
+	•	release a product to the market as quickly as possible
+	•	test an idea with real user before committing a large budget to the product’s full development.
+	•	learn what resonates with the company’s target market and what doesn’t
+Important Point to be noted:
+	•	make sue your planned MVP align with your business objectives
+	•	Identify specific problems you want to solve for your users
+	•	product must be viable
+	•	MVP is based on iterative processs of building
+Eg airbnb , Facebook, virgin airline
+
+Velocity
+At the end of each iteration, the team adds up effort estimates associated with user stories that were completed during the iteration. This total is called velocity.
+Velocity = units of work completed in a given timeframe
+Work =unit of work can be hours or user stories or story points
+Timeframe = Typically measured in iteartion or sprint or weak
+Sprint 1 velocity = 11
+Sprint 2 velocity = 13
+Sprint 3 velocity = 6
+Average velocity = (11+13+6)/3 = 10 story Points/Sprint
+ Total story points against Remaining is 60
+So 60/10=6 sprints
+
+Estimation in Agile
+For reasonable guess, you estimate basis what you know or see
+
+Traditional estimation.                            Agile Estimation   
+Efforts were estimated			      Business values or complexity is estimated
+Unit:Hours					     Units : Story Point or bucket
+Estimation is done in task level		     Estimation is done in user story level
+Provides absolute estimate		      provide relative estimate
+Estimates once done are not Revised.    Estimation are revised in every iteration.
+
+Influencing factors of Story point:
+	•	Buisness value
+	•	Complexity
+	•	Risks Dependencies
+	•	Amount of work
+
+T-shirt sizes(XS, S, M, L, XL)
+Small - 1 point 
+Medium - 2-3 Point
+Large - 5 point
+Extra large - 8 point
+Fibonacci Sequence
+1, 2, 3 is equivalent to 10, 20, 30
+0,1,1,2,3,5,8,13,21,34,55,89…. And so on
+0+1=1
+1+1=2
+1+2=3
+In agile estimation, slightly modified version of Fibonacci estimation is used
+1,2,3,5,8,13,21,34,89…and so on.
+Why Use the Fibonacci sequence for agile estimation?
+(Stories building example)
+Story points are relative.
+1. Quick to deliver and minimal complexity. An hour
+2. Quick to deliver and some complexity . Multiple hours
+3. Moderate time to deliver, moderate complexity, possible unknowns
+5. Longer time to deliver, high complexity, likely unknowns
+8. Long time to deliver, high complexity, critical unknowns
+13. Long time to delivery, high complexity , many critical unknowns
+21. You’re doing this wrong
+
+Agile Estimation Technique for user story
+	•	Delphi
+	•	Wide band Delphi
+	•	Complexity Bucket
+	•	Estimation Poker
+Estimation poker : scrum master, product owner, developer, tester
+Affinity estimating - to handle large number of stories
+
