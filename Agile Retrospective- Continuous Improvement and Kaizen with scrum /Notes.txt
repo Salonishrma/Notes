@@ -1,0 +1,233 @@
+Agile Retrospective: Continuous Improvement and Kaizen with scrum
+Scrum theory
+3 principle : transparency, inspection and adaptation(make improvements)
+Improvements: practices, sticking to values, communication etc
+
+Sprint Retrospective :
+It is a way to look back at things and find effective solutions to any problems that your sprint may suffer from. It form a key to the continuous improved aimed by an agile sprint.
+A sprint retrospective is nothing but a meeting facilitated by the scrum master of the team. It involve discussion on the ongoing process of the team and what could be done to make the next sprint better and effective. It facilitates continuous improvement of the sprint by helping the team to effectively integrate feedback into sprint management.
+
+Some of the main issue addressed in a print retrospective are
+	•	What went well?
+	•	What wen wrong?
+	•	What could be done for improvement?
+
+Key elements of a good retrospective
+	•	At least one aspect of the team, sprint or process undergoes improvement discussion in a retrospective. Every sprint ends with a bunch of improvements to make sure sprints are undergoing continuous improvement.
+	•	A retrospective is not a responsibility of a single person. It is a collaborated effort that includes the whole team, product owner and the scrum master.
+	•	All team members are involved in identifying the good things that happens over the sprint and things that could be improved.
+	•	Healthy discussions make healthy retrospective. The team members are able to put down their views and suggestions for improvement without any hesitation or negative emotions.
+	•	Ideas to improve productivity and efficiency are brainstormed and their implementation is analysed.
+
+
+Tips 1-7 
+Example : How to Run a Sprint Retrospective
+
+It is a time box meeting which lies the agile principle of inspect and adapt. In this meeting team focus on what worked in the sprint and what could be improved.
+Ask 2 Questions from the team
+What worked during the last sprint?
+What could be improved in the next sprint?
+Each member should speak one at a time so that rest of the team can hear clearly. The meeting needs to be time boxed strictly as usual, but should be long enough to allow the team space to express themselves.
+If the amount of absenteeism in the sprint its a key blocker, nobody should feel negative about saying so.
+The scrum team need to avoid turning the meeting into a complaint fest. 
+What could we improve rather than what went badly?
+
+Tip 1- The importance of the time boxing
+
+	•	Allot time for each of the points that need to be touched up on
+	•	Get a timer to make this more visual
+	•	Decide if more time can be given to a certain agenda point
+
+Tip 2 - Focus on Team Needs
+
+	•	Provide an outlet for kinesthetics energy
+	•	Take stretch breaks regularly especially if the meeting is more than an hour long.     
+
+Tip 3 - Put a Stop to the Mundane
+
+	•	Refrain from questioning and prompting your team members too much
+	•	Let the team decide the order
+	•	Vary the venue
+
+Tip 4 - Switch the Goal
+
+	•	While the traditional goals might work, switching it once in a while is a healthy means to acheive better results.
+
+Tip 5 - Take Lessons from your friends
+
+	•	take lessons from your other relationships in order to improve your team
+	•	Remove impediments for the retrospective whenever you can
+	•	Get excited and happy at your team’s achievement and reflect it in the retreospective
+
+Tip 6 -  The Secret Box
+
+	•	Know that some team members are sometimes reluctant to speak
+	•	have a secret box wherein they can drop in their thoughts 
+	•	Work on making the team more open about presenting their thoughts
+
+Tip 7 - Open Retrospective
+	•	During unusually short sprints it may be better to open the retrospective agenda to the team 
+	•	facilitate their ideas for discussion and get the team members more involved
+
+Case Study : retrospective Regret
+The retrospective is a great opportunity for the team to drive their own improvements.
+	•	Allow the team to learn from their own mistake and solve problems: let the team try and find their own solution 
+	•	Time box the meeting strictly and suggest a new meeting for important points: time box strictly or ask team for buy in of extra time to discuss
+	•	Transparency, or discuss any issue with your product owner create good relationship with product owner : invest time in the product owner
+
+Tip 8 - Change the facilitator
+	•	Even an open retrospective could get mundane at times, with a few participants every time
+	•	Give opportunities to all team members and encourage each of them to initiate the discussion
+	•	Encourage every team member to come up with topics by rotating the facilitation
+
+Tip 9 - Change the Style
+	•	Try changing the style of the retrospective
+	•	Include trying different locations
+
+Tip 10 - Accolades to the team
+	•	We have all always enjoyed being appreciated for what we have achieved
+	•	Ensure you display your kudos by offering the team members small gifts or tokens. The retrospective is a great place to do this.
+
+Tip 11 - The Retro Radiator
+	•	It is essential that you keep a track of your agreed retrospective improvements and goals
+	•	make sure you regularly check the proceedings and ensure that you are on the right track
+	•	use a retrospective radiator to be more productive through honest team suggestions
+
+Tip 12 - Creative  Retrospective
+	•	Try to experiment with alternatives to traditional retrospective techniques
+	•	Think about getting with the modified starfish technique, the sailboat technique and the learning matrix technique
+	•	
+Tip 13  - Involvement of Remote teams
+	•	Team members working remotely are a part of the team and need to be involved in sprint retrospective meetings.
+	•	Use tools that aid better communication and face time
+	•	Keep in mind the time zones while scheduling meetings to ensure the convenience of al involved
+
+Tip  14 - Separate Discovery  from Discussion
+
+	•	Separate the discovery stage from the discussion during the retrospective.
+	•	Note down your issues and discussion related queries and mark the cards so that it can be discussed later after the discovery stage is over.
+	•	make use of discovery stage for gaining a clear understanding of the concepts. Discuss your disagreements after the discovery is done.
+
+4 reasons why the sprint retrospective works
+	1)	Continuous improvement : the team can become stronger, efficient and product higher Quality product.
+	2)	The team become stronger : strangely rather than arguing move on together for good
+	3)	Negative feeling is off-loaded :Sprint is a natural point feelings and concerns can be off-loaded during the sprint they can escalate and start to divide the team
+	4)	Fresh start boost productivity : retrospective is over a feeling of a fresh start new motivation
+
+
+Tip 15 - Avoid Assumptions
+
+	•	Avoid assuming the preparedness and state of mind of participents.
+	•	Make use of tools like storyboards and post-its to help the participants remember key events during the sprint.
+
+Tip 16 - taking Cue from Previous Retrospective
+
+	•	Learning from the past and implementing it in the future always helps
+	•	Recall the reviews and actions from the past retrospective with the team members.
+	•	Use a projector or screen to display the notes to your team members
+	•	Use a projector or screen to display the notes to your team members.
+	•	As previously mentioned, video confrencing with team members who reside in different places is a good idea.
+
+Tip 17 - Draw out the problems, Successes, and Opportunities
+
+	•	Talking out things will resolve many problems and provides scope of improvement
+	•	The team members must be aware of problems , successes as well as opportunities of project
+	•	The facilitator must have the team members speak out all these aspects
+	•	All their thoughts can be put on a whiteboard for further assessment.
+
+Tip 18 - Roundtable Discussion
+ 
+	•	Every person has unique ways of approach and ways of talking a problem
+	•	The team member may hesitate to put out his or her idea during a group  discussion fearing criticism
+	•	The facilitator must ensure that every member gets the chance to speak a roundtable discussion can help ensure that free flow of thoughts occurs.
+
+Tip 19 - Voting for Essential Items to Act Upon
+
+	•	Voting is a great way to agree what deserve the most attention
+	•	have your team members vote for 3 issues that require priority during taking actions
+	•	tally the votes and agree what is to be considered the first issue to act upon 
+	•	Do not neglect the successes as even they might require action at times.
+
+Tip 20 - use the five Whys to get Root of the Problem
+
+	•	Questioning always leads to discovering solutions
+	•	Ask questions to the team as to  “why it happened?” And obtain the answer.
+	•	Repeat the question five times until most of them have spoken their minds and you can work on the most plausible answer.
+
+Tip 21 - make an action plan for your top Priorities
+
+	•	Every improvement needs appropriate planning to ensure that it is actioned.
+	•	During a retrospective, proper decisions must be made as to who would be dealing with the improvement. A user story should be raised to deal with the item.
+	•	Priority items that are assigned for action outside the team must also be well coordinated and scheduled. A story should be raised for someone in the team to contact the person outside the team and ensure that the problem is solved.
+	•	Action plans should not only address the symptoms, but also deal with the main cause
+
+
+Checklist Sprint Retrospective Checklist 
+Outcomes:
+Team have expressed views
+Scrum master list improvements
+List Actioned
+
+Tip 22- Allocate Exclusive Time for Actions of Improvement
+
+	•	Time is an essential resource for any accomplishment of a task
+	•	Ensure extra time for actions of priority items that need improvement or resolution
+	•	maintain a backlog, check all priority items and allot them to the team during sprint planning
+	•	Spending extra time exclusively for acting upon the issue will make your team stronger 
+
+Tip 23 - Formal Artifacts to Record Your Retrospective
+
+	•	Recording your actions is a great way of ensuring better actions in future
+	•	record all the actions your team takes during retrospective so that it helps further
+	•	Process improvement backlog and retrospective notes cam be maintained as official artefacts if they help for the betterment of the sprint and project.
+
+Tip 24 - Design Working Agreement
+
+	•	Inquiry rather than advocacy
+	•	Dialogue rather than debate
+	•	Conversation rather than argument
+	•	Understanding rather than defending
+
+
+	•	 Design a working agreement to bind the team under common values
+	•	Hand out or project the working agreement to the team when you are setting the stage for retrospective
+	•	Try and encourage inquiry over advocacy, dialogue over debate, conversation over argument and understanding over defending.
+
+Tip 25 - Give Ample Time to Answer
+
+	•	Questions and answers are important parts of improvement
+	•	Time must be given for people in the retrospective for answering
+	•	Though it’s disconcerting, the team members must be at ease to answer and this happens only with ample time through skilful facilitation to keep meeting on track
+
+Tip 26 - Allow the team to improve During the Sprint
+
+	•	The value of any improvement item should be discussed at planning so that the team members can be permitted to spend time improving the product or process
+	•	The value of the improvement should always be discussed with stakeholders to show them that it is a good decision for the buisness
+	•	A certain amount of buffer (as discussed with product owner) should be left in release plan for such improvements.
+
+Tip 27 - Go by a Retrospective Pattern
+
+  5 stages
+1. Set the stage - This can be a brief introduction to the purpose of the meeting
+2. Collect the data -  This is where your team must look for answers. However you must be very much time conscious about it as you would be in a sprint. You need to know what happend in previous sprints and collect such data (usually verbally). You must know what you could be wanting from it. As mentioned in one of our sprints, you should record notes from retrospective that you can use further.
+3. Create insights - Deciding on the data collected, you must be comprehensive about what you have learnt and suggest what it says about future improvements.
+4. Decide what to do and what could be done - Later you must decide what actions could be taken to ensure that the granted insights are materialised efficiently.
+5.Close
+
+	•	There must be a pattern for everything that what we do, as it ensures maximum success rate.
+	•	Though changes could be added to retrospective, it is vital to follow the basic pattern of a retrospective
+	•	Try the five steps of the pattern of the retrospective and ensure you do it in time
+	•	Try the 3 ordered steps  of a roundtable retrospective and see if it works for you 
+
+Tip 28 - One at a Time
+	•	Focus is one of the most important criteria for success and shouldn’t be hampered by too many improvement ideas in one sprint 
+	•	 There is no point listing a number of actions and improvements to be made in a sprint if they interfere with each other 
+	•	It is always better for the team to focus on one single improvement in one sprint and complete it in situations such as these
+
+Tip 29 - Improve how you capture Visible Notes
+
+	•	Just like all other things in a retrospective, it is important to pay attention the note making as well.
+	•	Use wide chisel tip marker to write and ensure you get rid of all the permanent markers on white boards
+	•	Write large on the board as it is easy to read that way. Use mixed sentence cases instead of capital letters as it is more comprehensive
+
+
