@@ -1,0 +1,401 @@
+  Agile Scrum Course : Scrum Fundamentals - Scrum Certification
+
+What is Scrum?
+	•	A framework to solve problems & deliver value
+	•	An agile methodology
+	•	The most popular agile methodology for delivery projects
+	•	An iterative, time -boxed approach
+	•	Increemental delivery with continuous improvement
+	•	Customer centric, focus on value, deliver often & quickly
+	•	Adaptive, fast, flexible
+
+Scrum vs Waterfall
+Scrum
+	•	Quick, delivery with a focus on value ;  customer centric
+	•	Iterative
+	•	Scope is variable & negotiable
+	•	Continuous reflection for improvement
+	•	Frequent testing
+	•	Roles blur
+
+
+Waterfall
+	•	Longer term delivery with a focus requirement; business centric
+	•	Sequential
+	•	Scope is fixed
+	•	Lessons learned at the end of the project
+	•	testing during a phase
+	•	People in defined roles
+
+
+Origins Of Scrum
+	•	Japanese and rugby roots
+	•	Introduced initially in the 80’s by Hirotaka Takeuchi and Ikujiro Nonaka
+	•	In the the 90’s  Ken Schwaber and Jeff Sutherland structured the Scrum framework
+	•	Sutherland & Schwaber helped to write the Agile Manifesto in 2001
+	•	They are co-authors of the definitive Scrum Guide
+	•	Public document initially released in 2009
+	•	Schwaber co-founded the ScrumAlliance.org and later founded Scrum.org
+
+Light Agile Approaches
+	•	Scrum
+	•	Kanban
+	•	Lean
+	•	Extreme Programming (XP)
+
+More Expensive Agile Approaches
+
+	•	DSDM
+	•	SAFe
+
+The Scrum Culture
+Secret # 1 of Scrum- we can use it in every industry weaher it, operation everywhere
+
+Scrum  Pillars and Scrum Principles : the solid foundation of Scrum as a culture 
+Pillars:
+	•	Transparency  - Significant aspect of the process must be visible to those responsible for the culture
+	•	Inspection - Scrum artifact are frequently inspected to review progress and variances
+	•	Adaptation - When there’s variation vs. desired and acceptable outcomes adjustments are made
+
+Scrum Principles:
+	•	Empirical Process Control
+	•	Self organization
+	•	Collaboration
+	•	value based prioritisation
+	•	Time-boxing
+	•	Iterative development
+
+Scrum Values and Scrum Resources : the essence of Scrum as a culture
+
+Scrum values :
+	1)	Commitment
+	2)	Courage
+	3)	Focus 
+	4)	Openness
+	5)	Respect
+
+Scrum Resources:
+	•	Scrum Guide : “the Bible”
+	•	Scrum.org
+	•	ScrumAlliance.org
+	•	ScrumStudy.com
+	•	Scrum Body of Knowledge (SBOK)
+	•	AgileKB.com
+
+Scrum Aspects
+	•	Organization
+	•	Buisness Justification
+	•	Quality
+	•	Change
+	•	Risk
+
+Scrum Strength
+	•	Continuous Delivery & Improvement
+	•	Empowerment
+	•	Cross-functional Teams
+	•	Self organisation
+	•	Focus  on short term objectives, iterate approach
+
+Managing projects with Scrum| The world of agile scrum project management
+Secret #2 of Scrum
+We can combine scrum with waterfall or any other project management methodology in what we call a hybrid approach
+
+Quality in scrum:
+Acceptance criteria :
+	•	Testing is done often, not just at the end
+	•	not just the responsibility of one person
+	•	meets standards does not seek perfection
+	•	Continuous improvement
+
+
+Change in Scrum
+	•	Welcomed and accepted
+	•	Customer feedback is incorporated into deliverables
+	•	Made when needed
+
+Risk in Scrum
+	•	Identified, assessed and responded
+	•	Considers two factors
+	1.	Probability of occurance
+	2.	Possible impact in event of occurrence
+
+What can  You use Scrum For ?
+	1)	 Deliver - Deliver projects on time and budget 
+	•	 In any industry 
+	•	On small, mid and even large Project
+
+
+  2) Create - Create a collaborative culture focused on continuous improvement
+
+  3) Reach - Reach your goals and objectives
+ 
+  4) Provide - Provide value, remain flexible and adaptable
+
+What can you use scrum for ?
+
+	•	Research and identify  - research and identify viable markets, technologies, and product capabilities
+	•	Develop - Develop products/services and enhancements
+	•	Release - Release products and enhancement frequently
+	•	Develop and sustain - develop and sustain cloud and operational environments for product use
+	•	Sustain and renew - Sustain and renew products/services
+
+Secret # 3 of Scrum 
+Scrum retrospective are super powerful. They’re actually, at the core essence and one of the most important of Scrum as a methodology and as a framework .
+
+Scrum Rituals 
+	•	Daily Scrum 
+	•	Sprint planning
+	•	Sprint review
+	•	Retrospective 
+	•	Backlog refining
+
+Scrum Roles
+	•	Scrum master
+	•	product owner
+	•	Development team (or delivery team)
+
+The Scrum Master
+	•	A  facilitator
+	•	Leads, supports, guides and helps
+	•	Remove roadblocks or impediments
+	•	Leads daily stand-ups
+	•	Keep the team focused on goal & objective
+	•	Keeps the time on track
+	•	Not a traditional Team lead or project manager
+	•	Facilitates key sessions and encourage team to improve
+	•	Removes roadblocks and helps the team reach its goals
+	•	Ensure adherence to Scrum Framework and rituals
+	•	Servent-leader
+	•	Coaches team
+	•	Works closely with Product Owner
+
+The Product Owner
+	•	represents the customer and stakeholder
+	•	Defines the product in customer centric terms
+	•	Owns the product backlog
+	•	Prioritizes based on importance and dependencies
+	•	A scrum Team should have only one Product owner
+	•	A person can be the product owner for more than one team
+	•	Bridge between team and stakeholder
+	•	Should be different to the scrum master
+	•	Steers direction of what is being deilvered
+	•	Negotiable priorities, scope, funding and schedule
+
+The delivery team
+	•	Responsible for delivering “shippable” increments every sprint
+	•	Generally 3-9 members who carry out tasks
+	•	Analysis, design, development, testing etc
+	•	Empowered
+	•	Self-organized
+
+The Scrum Master Service to other roles
+
+The Scrum Master Service to Product owner
+	•	Ensuring that goals, scope and product domain are understood by everyone
+	•	Finding techniques for effective product backlog management
+	•	Helping the Scrum Team understand the need for clear and concise Product backlog
+	•	Understanding product planning in an empirical environment 
+	•	Ensuring the product owner knows how to arrange the product backlog to maximise value
+	•	Understanding and practicing agility
+	•	Facilitating scrum events
+
+The Scrum Master Service to Developemnet team
+	•	Coaching the development team in self-organisation and cross-functionality
+	•	Helping the development team  to create high-value products
+	•	Removing impediments to the development team’s progress
+	•	Facilitating scrum events as requested or needed
+	•	Coaching the development team is organisational environments in which scrum is not yet fully adopted and understood
+
+The Scrum Master Service to Organization
+	•	Leading and coaching the organisation in its scrum adoption
+	•	Planning scrum implements within the organisation
+	•	Helping employees and stakeholders understand and enact Scrum and empirical product development 
+	•	Causing change that increase the productivity of the scrum team
+	•	Working with other scrum masters to increase the effectiveness of the application of scrum in the organisation
+
+Running project with scrum
+
+Secret  # 4 of Scrum
+Scrum is that we can actually prioritise our user stories by focusing on the minimum viable product, low hanging fruit and what maximises value for the end customer and for people that are benefiting from this project.
+
+Planning, documenting & Estimating in Scrum
+Planning in scrum
+	•	Sprint planning 
+	•	What  can be delivered in the increment resulting from the upcoming sprint?
+	•	How will the work needed to deliver the increment be achieved?
+	•	Sprint planning is time-boxed to a maximum of eight hours for a one-month sprint
+	•	Sprint goal
+	•	Development team explain to the product owner and scrum master how it intends to work to accomplish the sprint goal
+
+Documentation in scrum
+	•	Kept lean
+	•	Focus on quality not quantity 
+	•	Concise and succinct
+	•	Only where and when strictly required
+	•	Still important
+	•	Still part of the process
+
+Estimating in scrum
+	•	Team exercise
+	•	User stories and story points are part of the process
+	•	The team improves over time
+	•	Not about accuracy
+	•	Iterative process
+
+Delivering and improving in scrum
+Delivering in scrum
+	•	Iterative
+	•	Done through sprints
+	•	Value is delivered quickly and often
+	•	Rapid tangible results
+	•	The daily scrum ensures the team remains on track
+
+improving in scrum
+	•	A continuous process
+	•	Performed via Retrospectives
+	•	Leverages on Scrum tools such as the Kanban Board & scrum charts
+
+Scrum Artifacts
+Secret #5 of Scrum
+
+Secret number five of Scrum is colocation.And by that I mean tat the people working together as part of the scrum team should be sitting together right next to each other in the  same room.
+
+User stories in scrum and the scrum Kannan board
+
+User stories
+	•	Buisness requirement written in the form of :
+       -  AS a <role> I need to <what> so that <why>
+	•	Story points are assigned based on complexity
+	•	Acceptance criteria defined to consider something as done
+	•	Assigned to one or more team members, ideally one
+	•	Included in the product backlog and sprint
+
+
+The Kannan board
+	•	A physical or digital board to track progress
+	•	Visual representation of the team’s performance
+	•	Ensure everyone is on the same page
+	•	Allows to review project status at a glance
+	•	Makes workload clear and visible
+
+Scrum Kanban Board Example in Trello 
+
+Velocity
+	•	The team’s speed of execution
+	•	Can be monitored by sprint or  for the project as a whole
+	•	In other words story points delivered in a sprint
+	•	Average story points delivered across multiple sprints
+	•	A metric of performance and effectiveness
+	•	Tracked in a  chart
+
+Burndown chart 
+	•	Visual representation
+	•	Total amount of work
+	•	Remaining 
+	•	Delivered so far
+
+The product backlog and the sprint backlog
+
+product backlog
+	•	An ordered list of everything that is known to be needed in the project
+	•	It’s never complete; a living document
+	•	Lays out the initially known and best-understood requirements
+	•	Dynamic, evolves with product, context or needs
+	•	Includes all features, functions, requirements, enhancements and fixes
+	•	So everything which needs to be done in user story format
+	•	Refined when needed
+
+sprint backlog
+	•	The set of product backlog items selected for the sprint
+	•	Includes at least one high priority improvement identified in the last retrospective 
+	•	owned by the team
+	•	can be adjusted by the team
+
+Increment and the definition of done in scrum
+
+Increment 
+	•	A deliverable
+	•	Work done during a sprint
+	•	A step towards a vision or goal
+	•	Progress
+
+Definition of Done
+	•	Agreed & understood by the team
+	•	Relies on what the team considers done/compleate
+	•	Varies by Scrum team
+
+The MVP and things that help scrum teams succeed
+MVP , The minimum viable product
+	•	The bare minimum which needs to be delivered to meet the overall goal
+	•	Think of the musts and exclude all the nice to haves
+	•	Consider only what is really needed
+	•	Don’t over engineer it
+	•	Keep it lean, keep it simple
+	•	If nobody asked for it, don’t add it
+
+Things that help scrum teams 
+	•	 A knowledgeable scrum master & a supportive product owner
+	•	Empowerment to make decision
+	•	Co-location
+	•	Daily face to face interaction (e.g the daily scrum)
+	•	Online collaboration
+	•	Acceptance of requirement volatility & unpredictable challenges
+	•	Education  & training
+
+The daily scrum and sprint
+	•	Short,daily meeting to keep the team in sync & on track 
+	•	Up to 15 mins, ideally less if possible
+	•	Also known as daily stand-up
+	•	People answer 3 Questions
+	1)	What did you do yesterday?
+	2)	What are  you working on today?
+	3)	Any issue or impediments?
+
+The sprint
+	•	A time box of one month or less to deliver a set of user stories
+	•	Typically sprints last 2 weeks, but it varies by scrum team
+	•	The team works to deliver an increment a shippable product or service
+	•	should not be increased/decreased while in progress
+	•	consist of the sprint planning, daily scrum, the development work, the sprint review, and the sprint retrospective
+
+Sprint Review Meeting
+	•	Informal meeting of up to 4 hours for a 1 month sprint
+	•	Assess results  & provide input for next sprint
+	•	Review key sprint metrics:
+	•	Velocity
+	•	turndown chart
+	•	others
+	•	Update the product backlog
+	•	Review project timeline, budget, etc
+
+Retrospective in Scrum
+	•	A lessons learned session
+	•	A space for team reflection
+	•	An agile ritual that allows for continuous improvement
+	•	Team members answer three key Question:
+	•	What went well ?
+	•	What didn’t?
+	•	What can we do differently next time?
+	•	Occurs after the sprint review and prior to the next sprint planning
+	•	Up to 3 hours. Meeting for a 1 month sprint
+
+Why do companies love Scrum?
+	•	They can see the difference vs. traditional project management methodologies
+	•	Fosters a sense of urgency
+	•	Creates a result orientation mindset
+	•	Constant delivery
+	•	Tangible benefits
+	•	Helps people grow and continuously improve
+
+Job opportunities
+	•	High demand for scrum master & people  with scrum/ agile knowledge
+	•	Different industries
+	•	Global opportunities
+	•	Good salaries
+	•	Market appetite for agile & scrum knowledge 
+	•	certifications a plus
+
+The scrum process & scrum recap
+Scrum process
+	•	product backlog —> sprint backlog(<—Sprint (<—daily scrum) )—>product
+
