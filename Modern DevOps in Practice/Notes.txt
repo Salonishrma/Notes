@@ -1,0 +1,396 @@
+Modern DevOps in Practice
+
+
+Introduction to DevOps Principles 
+What Is DevOps
+DevOps is a combination of cultural philosophies, practices, and tools that increase organisation’s ability to deliver applications and services at a high velocity: evolving and improving products at a faster pace than organisations using traditional software development and infrastructure management process - Amazon
+
+Software development methodology that combine software development (Dev) with information technology operations (Ops) - Wikipedia
+
+Represents change in IT culture, focusing on rapid IT services delivery through adoption of agile, lean practices in context of system-oriented approach
+Emphasises people and seeks to improve collaboration between operation and development teams
+Implementation utilise technology - especially automation tools that can leverage an increasingly programmable and dynamic infrastruce from a life cycle perspective
+
+You may heard that devOps is  about :
+	•	Culture
+	•	Tools
+	•	Bringing software principals to operations
+	•	Extending agile processess
+	•	Infrastrure as Code (IaC)
+	•	CaC Configuration aș code
+
+Modern devOps template 
+	•	Amazon
+	•	Facebook
+	•	Netflix
+	•	Target
+	•	Walmart
+
+Goals
+	•	Culture for collaboration
+	•	Automate
+	•	Optimise and reduce issues in SDLC
+	•	Consistency in progress
+	•	Improve quality and security
+	•	Improve deployment frequency
+
+DevOps Methodologies and concepts
+
+Automation
+	•	Not duplicate of goals
+	•	Automation in context of applying automation to deveopment, integration, and deployment process
+
+CI/CD/CD
+	•	CI:
+	•	Focusses on sub process of SDLC to build features and fixes perform preliminary testing then merge to master if successful
+	•	CD:
+	•	Tail end of CI
+	•	refers to archiving build artifacts
+	•	CD:
+	•	deploy all necessary artifacts and perform any configuration
+
+Fail fast
+	•	Don’t waste resources on something that will fail
+	•	Organise and optimise for efficiency
+
+Frequent feedback
+	•	Compilation of a series of small and frequent feedback loops
+
+History
+DevOps is kind of OD name, so you may be wondering how the term was coined . Multiple sources have Patrik Dubois coining the phrase in 2009, but simple DevOps was born from joining common short names for development and operations. The driving force behind the creation of DevOps boils down to two items success of Agile and Lean software development
+
+DevOps - Creation
+	•	Success of agile and lean software development:
+	•	Bottle neck formed outside development 
+	•	Apply agile and lean methods to other areas
+
+Inefficiency in SDLC
+
+Adoption od DevOps
+	•	Development
+	•	Operations
+
+Context
+	•	People - engineer, team or group
+	•	Philosophy - set of ideals and culture
+	•	Principles - set of priorities
+	•	methodologies - Plan for meeting parts of smaller aspects
+	•	Methodologies - plan for meeting parts of smaller aspects 
+	•	Practices - common implementations of methodologies
+	•	Tools - bearers of labor 
+
+People 
+Depends on the employer
+	•	Continuously research , refine, and Create concepts, methodologies , practices, and tools in order to optimise the SDLC
+	•	Implement core standards, policies, and tools based on the previous 
+	•	Asses infrastructure requiremen—> Global and application scale
+	•	Create and manage infrastructure
+	•	Coordinate with other teams
+	•	Troubleshoot issues with code and infrasture
+	•	Work with one or more team 
+	1)	Asses their current state 
+	2)	Formulate end goals 
+	3)	Adapt to requirements
+	4)	Develop a plan of implementation
+	5)	Formulate milestones
+	6)	Provide instruction on the core standards, policies and tools
+	7)	Develop a pipeline
+	8)	Help to change their code and processes to work with the plan
+
+Philosophy
+	•	Philosophy and culture are closely tied
+	•	Philosophy fosters culture
+	•	Some say that culture isn’t important and others would argue that it’s most important 
+	•	If you are using DevOps tools, then you are dipping into proverbial pool of DevOps culture
+	•	Correct Philosophy for company is just as important as adoption of it
+	•	Every company has Philosophy and resulting culture whether they realise it  or not, good or bad
+	•	Is DevOps something you do?
+
+
+Principles
+	•	devOps culture is the one based on set of principles, hierarchy of rules by which each person operates
+	•	You may be thinking that you have never seen a document with a set of defined principles at your comapny
+	•	Is your  company DevOps?
+
+Introduction To DevOps
+
+Cloud - Origin
+While term “cloud -computing” was popularized with Amazon.com releasing its elastic compute cloud product in 2006, references to phrase “cloud computing” appeared as early as 1996, with first known metion in Compaq internal document - Wikipedia
+
+Cloud computing is believed to have been invented by Joseph Carl Robnett Licklider in 1960s with his work on ARPANET to connect people and data from anywhere at any time - Wikipedia
+
+Why have cloud services become so popular?
+Advantages :
+	•	Immediacy
+	•	Scalability
+	•	Flexibility
+	•	Continuity and failover
+	•	Reduced cost
+	•	Reduced management
+	•	Feature rich
+	•	Compliance
+	•	Collaboration
+	•	Integrate or segregate on-prem resources
+	•	Replication
+	•	Accessibility
+
+Disadvantages
+	•	Limited control
+	•	Issue resolution
+	•	Can cost more than on-prem
+	•	Provider lock-in
+	•	Security
+
+Providers
+
+What are cloud service?
+Cloud services are IT resources (infrastrure, application and related services) offered by providers over the internet, often on demand, and can be paid or free
+
+Service types 
+	•	Infrastructure as a Service (IaaS)
+	•	Platform as a Service (PaaS)
+	•	Software as a Service (SaaS)
+
+Providers List
+	•	AWS
+	•	Google cloud platform
+	•	Azure
+	•	IBM cloud
+	•	Digital Ocean
+
+
+Provider Considerations
+	•	Reputable companies
+	•	Security
+	•	Meets needs
+	•	Features
+	•	Updates
+	•	Cost
+	•	Support
+
+Azure Pronunciation
+	•	Company adopted the long A pronunciation
+	•	I prefer the short A pronunciation
+	•	Some may pronounce with a strong UR
+
+
+Info 
+	•	Codenamed “project red dog” was announced in October 2008
+	•	Released on February 1,2010
+	•	Formerly called Windows Azure
+	•	Multiple services offered
+
+Configuration as Code and Container Orchestration
+
+What is container?
+Running instance of an image
+
+Container Orchestration Tools:
+	•	Nomand
+	•	Kubernetes
+	•	Mesos 
+	•	Swarm
+	•	Open Shift
+	•	Docker-Compose
+
+What is Orchestration?
+Orchestration tools are very complex. They maintain a contingent of VMs called nodes, in which the containers will run on.They provide scheduling for the containers, direct traffic with Networking and DT. \
+Manage environment data = principal and goals
+Container + management =Modern DevOps
+
+Infrastrure as code:
+
+	•	Team A need networking changes - email someone to fine out who they need to talk to get changes done
+	•	Get someone that knows who to contact so Team reaches out to them
+	•	Person replies  back -  need to file ticket in ticketing system
+	•	Team has trouble finding out all of data boxes due to lack of understanding in area
+	•	Completes from best he can and sends it on
+	•	After few days he gets reply - he did not provide the needed information
+	•	He gets what he needs and resubmits ticket
+	•	After several more days he gets reply  with some question about new configuration
+	•	Once that is settled team waits for change to be made
+	•	Get notice that it has been done but there is issue- not working
+	•	Team lead tracks down implementer
+	•	After long discussion they find that error is attributed to typo
+	•	Implementer has to undo previous changes and implement correct changes
+	•	Team finally gets changes they need and proceed to complete their immediate work
+	•	Few weeks later - need to make same changes to another environment
+	•	They begin same process resulting in implementer having to repeat same work
+
+What could have been done to help reduce workload and to convey needed information peers?
+Infrastructure as a Code (IaC0
+	•	Suppose team lead were to make changes to document that held current configuration
+	•	Submitted that document to source control and requested review
+	•	Certain files were changed than every review group that had tangency to those file were noticed
+	•	Reviews changes and ran file to make changes
+IaC - Infrastructure as a Code manage and provides hardware resources using definition files rather than interactive configuration tools
+
+
+Languages and Applications
+
+Languages 
+	•	Bash
+	•	Powershell
+	•	Python
+	•	Ruby
+	•	Golang
+
+Tools
+	•	AWS CloudFormation
+	•	Terraform
+
+Automation, Pipeline, Orchestration, and CI/CD
+Git is source control tool developed by Linus Torvolds
+
+Host :
+Github
+BitBucket
+Azure DevOps Git
+
+Functionality:
+Managing
+Authentication
+Pull Request
+Hooks
+
+GitFlow
+
+	•	Developed  for use with Agile development
+	•	Works by establishing different types of branches and some rules for working with those branches
+	•	Master branch - persistent and protected branch - used to store code
+	•	Develop branch - branched from master - persistent and protected branch for storing developed features
+	•	When I say protected, I mean that these branches can’t be deleted or committed to directly
+	•	Changes must be merged from another branch
+	•	New development is done by branching from that develops branch to create feature branch
+	•	Feature branches - not persistent - removed once feature is done - branch merged back into develop. Branch
+	•	Vitally important that develop branch code be in working state since it provides basis for feature deelopment
+
+Pull Request
+	•	First line of defence to ensure bugs don’t creep in is with peer review
+	•	Way to notify reviewers that code is ready for review and allow reviewers to comment, approve, or deny request
+	•	Release branches are branded from develop at point where last merged feature to be included was committed
+	•	Code for release can then be developed into test environment
+	•	Any issues found will be handled on release branch and merged back into develop to keep it current
+	•	Once release is ready - release branch is merged into develop and master
+	•	Release branch can then be deleted, if necessary to maintain legacy versions of code then it can persist
+	•	Any hot fixes that need to be made are branched from master to hot fix branch then merged back into master and develop
+	•	Each developer is rushing to get their code merged into development
+	•	Git will not allow conflicts, changing same line of code in two different branches
+	•	Think of code in DevOps way as a subscription that is delivered rather than bi-weekly purchase
+
+Pipeline Orchestration Tools
+
+Guidline to choose a tool
+	•	Community support
+	•	CaC
+	•	Required feature
+	•	Ability to work with hooks
+	•	CI/CD
+
+Tools :
+	•	Jenkins
+	•	TeamCity
+	•	Travis CI
+	•	Circle CI
+	•	Azure DevOps
+
+Azure DevOps:
+Console versus YAML configuration
+
+Console:
+	•	Visual Interface
+	•	Populated options and feilds
+	•	Searchable for task
+	•	Less to remember
+	•	Change build and run
+	•	Changes can be time consuming
+	•	No guarantees on old code building
+
+YAML
+	•	CaC
+	•	Stored with code
+	•	Some guarantees for code build
+	•	Faster to edit
+	•	Requires knowledge of tasks and syntax
+	•	Require code commit for build changes
+
+Advantages :
+	•	Beneficial to have build configuration within repository
+	•	There is very loose correlation between mild configuration and app code
+	•	makes rebuilding older code more challenging if configuration changes
+	•	Either method is fully capable of providing automated CI/CD pipeline 
+	•	Able to form your own opinions and can better design pipeline to fit development team’s needs
+
+Monitoring and Logging
+Monitoring
+	•	Monitoring and logging are important
+	•	Monitor entire spectrum
+	•	Lack of Collaboration between teams 
+	•	define objectives, develop strategy
+
+Monitoring Types
+	•	VM - CPU, memory, disk space, and so on
+	•	Network - bandwidth, traffic, routing, latency, and so on
+	•	Application - response time, resource usage, and so on
+
+Monitoring -When ?
+	•	Constant, near real time
+	•	Periodic (trend): Data collected on an interval : seconds, minutes, hours, days
+
+Monitoring - what?
+	•	Activity
+	•	Output
+	•	Outcome
+	•	Impact
+
+Tools of Monitoring and Logging Tools
+Splunk
+Prometheus
+Solarwinds
+
+Scripting Automation and Custom Tools
+	•	scripting tools are invaluable
+	•	Reduces need for performing mundane tasks
+	•	Think automation
+	•	Custom tools are fun
+
+What makes a Good Scripting Language?
+	•	Able to run from file
+	•	has interactive capability
+	•	Dynamic typing 
+	•	Can run or interact with other programs
+	•	Shell intercation
+	•	Multi-Platform
+
+Python, ruby , bash ,perl,powershell,golang 
+All are multi platform
+All are system interaction
+Except Golang all are interpreted only Golang is compiled
+
+
+DevOps Philosphy
+	•	devOps team are working with new development team on project - Kraken
+	•	Introduce DevOps philosophy - overview of what DevOps is and what it can do
+	•	Dev Team is excited about working with us and wants to take advantage of all of technology and methodology of DevOps.
+	•	Agreement - release by feature
+	•	use Cory flow in it’s purest form - able to release multiple times per day
+	•	Paper testing, peer review, and Git workflow enforcement is paramount
+	•	Project consists of single page app, API, and Postgres database
+	•	Single page app or spa will be served by NGINX
+	•	Need to be able to connect to APIfor request on Public IP
+	•	API is written in go
+	•	Use Postgres database to store client and application data
+	•	Build out pipeline for new application stack, Dockerize applications, provide infrastructure to support applications, deploy to Kubernetes, and set up monitoring
+Create Azure Resources
+Key values:
+	•	One per environment (dev, QA, pro)
+Docker container registry:
+	•	One registry but could b multiple
+	•	Saves space and time
+Public IPs:
+	•	API and UI
+	•	Per environment
+Kubernetes instance:
+	•	Packet-aks
+
+
