@@ -1,0 +1,169 @@
+The DevOps Essentials - The Handlebook
+DevOps is a set of practices that combines software development and IT operations. It aims to shorten the system development life cycle and provide continuous delivery with high software quality. DevOps is complementary with agile software development; several DevOps aspects came from Agile methodology(Wikipedia)
+DevOps is not a set of  tool
+DevOps is cultural moment
+
+Traditional Model 
+Dev- Team = deliver feature quickly, goal is speed. KPI = speed
+Ops- Team : Maintain Stability. KPI = Stability
+
+Dev-ops culture
+	•	Deliver feature quickly
+	•	maintain stability
+	•	Goal is speed
+	•	Shared Goals
+	•	Time to market
+
+Agile : small, frequent cycle
+Waterfall : Long planning phases
+
+2007 : Agile software development was popular but the divide between dev and ops team made it suffer (Petrik debris)
+
+2008 : Agile 2008 conference, Toronto, canada
+June 23 2009 : velocity conference ( John ALSPAW and Paul hammond) 
+Oct 30 2009 : DevOpsDays, Ghent, Belgium 
+
+Traditional Silos
+Silos are nothing but separated teams, teams that have walls in between them . The dev team and the ops team always had walls in between them
+3rd is QA
+
+Devious Culture :
+	•	Automated Builds
+	•	Automated Integration
+	•	Automated Testing
+	•	Automated Deployment
+	•	Parallel Processing
+	•	Highly Efficient Teams
+	•	Robust Automation Process
+	•	Automation Leads to Consistency
+
+Automating the Build
+
+Code Deployment —> Build Automation —> Production
+
+Build Automation includes :
+	•	Compiled
+	•	Transformed
+	•	Unit Test
+	•	Scan the code for problems
+	•	Report problems
+	•	Eliminate Defects
+
+Build Automation Tools Example:
+	⁃	Jenkins
+	⁃	Maven
+	⁃	Gradle
+	⁃	Travis CI
+	⁃	Bamboo
+	⁃	CircleCI
+	⁃	TeamCity
+
+	•	Build Automation is independent of an IDE
+	•	Machine agnostic
+	•	Automation is fast and save time + any human errors
+	•	Consistency
+	•	Repeatable & Portable
+
+Continuous Integration
+Code conflict/Merge Conflict
+Messy Code
+Automation will : build,
+ test
+Upon failure  Notification is sent to the learn
+Frequently merging the code changes
+CI tools : Jenkins, TeamCity, CircleCI, GitLab CI ..etc..
+
+Continues Deployment
+Github —> Build —>QA —>Stage —> Production
+
+Code - Dev Environment Pull Request
+Build - Automated Build Peer Review
+Test - Automated Tests Code Analysis
+Release - Prepare Infrastructure Document Changes
+Deploy - Automation Deploy Prod Environment
+Operate - Automated recovery Logging
+
+Infrastructure as a Code - IaC
+Managing and provisioning  infrastructure using code
+Use code to deploy infrastructure of any size
+Provision new resources/ Modify existing resource - using code
+Consistent deployment
+Reusability 
+Self documenting
+
+
+Configuration Management
+	•	Doing the changes in a maintainable way
+	•	Minimising the configuration drift
+	•	Controlling the configuration/deployment
+	•	Configuration management keep all servers at consistent state 
+	•	Identify the state of infrastruture
+
+Monitoring in DevOps World 
+
+Monitoring Tools provide:
+Quickly respond to problems
+Collect system Metrics
+Represent data in a presentable manner
+Real time monitoring and notifications
+Assists in troubleshooting
+
+What are Microservices?
+	•	Microservices are Modular
+	•	Microservices are Flexible
+
+Tools Required for Build Automation and continuous Integration
+Build Automation — Automated process of building the code of deployment
+Mavent , Gradle tools 
+Javascript have tools like - rpm, grunt,Gulp
+Packer tool - tool for building containers
+Jenkins tool - open source from Hudson (Hudson controlled by Oracle)
+Travis CI - open source, used for Github (execute each build in clean virtual machine)
+Bamboo - not open source not free 
+
+Tools Required for Configuration Management
+Ansible -open source,  it  use declarative configuration (like a script) Ansible use YAML (it do not required centralised server), it do not require control server, it have ansible tower that can behave like control server.
+Ansible do not even require agents. It use technology of Python and SSH to connect with host
+
+Puppet - use declarative configuration does use a control server, agent installed on each client. it written in domain specific language
+
+CHEF - procedural configuration , basically write script or step . It use agent server model, it written in domain specific language
+
+SALTSTACk - declarative configuration, agent server architecture, it refer to its agent as minions and server as master. Just like ansible it use YAML
+
+Tools Required for Virtualisation and Containerization:
+Virtualisation make user of hypervisor
+Virtualisation tools : VMware ESX,ESXi, Hyper V from Microsoft, Zen Server from Citrix
+Containerization tools :Docker 
+
+Tools Required for Monitoring DevOps:
+	•	Infrastructure Monitoring  -Cpu usage, memory usage ,network statistics
+	•	Application performance monitoring - focus on performance and stability of application
+Sensu - modern replacement for Nagios, user client server architecture, agent are install on every host, more scalable, agent push data to broker
+New Relic - SaaS located in cloud, installed on each server, It support wide variety of matrix
+Appdynamics - code level dygnosis, client server architecture
+ElasticStack - Kibana , come with agents called Beats
+
+Tools required for Orchestrating DevOps
+Allow things like
+Autoscale applications based on usage
+Create self healing systems
+Tools :
+Docker Swarm - docker native orchestration tool , light weight
+Kubernetess - gold standard, open source, user orchestration server, 
+ZooKeeper - open source solution ,centralised server registry 
+Terraform - combine orchestration with infrastructure as a code
+
+Relationship between DevOps and the Cloud
+DevOps is a culture of collaboration between dev and ops teams.
+DevOps can happen inside or outside the cloud
+Practices of DevOps are very useful in the world of cloud
+Cloud services are built upon DevOps Practices
+
+Networking — servers — virtualisation — operating system — middleware — runtime — data — application
+
+IAAS - amazon ec2, azure virtual machine and also container ,google 
+PASS - AWS, elastic beanstalk heroko google app engine
+SAAS - Gmail, Office 365 
+FAAS - everything is abstracted, server less, function as a server ( amazon, amazon lemda, azure function , google cloud function )
+
