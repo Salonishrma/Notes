@@ -1,0 +1,962 @@
+Professional DevOps
+What is DevOps ?
+	•	Culture, principle and process
+	•	Automate and streamline the software lifecycle
+	•	Code development to production
+
+Why Not just Adopt Agile?
+	•	Powerful tool but with limitations
+	•	Fails to address software delivery
+	•	DevOps improve Agile
+	•	DevOps integrates several teams
+
+DevOps Principle and Culture:
+	•	Collaboration and communication across stakeholder
+	•	priority to operational needs
+	•	Developers as responders to production issues
+	•	Improve coordination and shared responsibility 
+	•	Continuos improvement
+	•	Continuous monitoring
+	•	Standardise process
+
+	•	Automate Process:
+	✓	Developing and testing the code
+	✓	Deploying the test infrastructure
+	✓	Running end-to-end tests
+	✓	Deploying the code
+	✓	Collecting metrics from production
+	✓	End-to-end orchestration of the DevOps pipeline
+
+	•	  Become a learning organisation
+
+What do you need to do to Excel at DevOps?
+	•	Develop the team-culture
+	•	DevOps Practices and tools
+	•	DevOps expertise level
+	•	DevOps pipeline
+	•	Learn and improve
+
+New DevOps Roles
+	•	DevOps  architect/evangelist
+	•	Core release manager
+	•	Automation architect/expert
+	•	software developer/tester
+	•	QA/experience assurance (XA) professional 
+	•	Security engineer
+	•	Utility technology player
+
+	•	DevOps  architect/evangelist
+	✓	Create efficient and effective process
+	✓	Deep knowledge
+	✓	Roadmaps
+
+•	Core release manager
+	✓	Management and coordination
+	✓	Coordination, integration till deployment
+	✓	Maintain end-to-end  chain
+
+	•	Automation architect/expert
+	✓	Automate everything possible
+	✓	Well-versed in testing processes and tools
+	✓	Sound in scripting
+	✓	Provide framework and expertise
+
+•	software developer/tester
+	✓	At the heart of the DevOps organization
+	✓	Complete team mindset
+	✓	Scope of responsibility
+	✓	Scope of responsibility
+
+•	QA/experience assurance (XA) professional 
+	✓	Monitors the release
+	✓	Extended responsibility
+	✓	XA testing
+
+	•	Security engineer
+	✓	Safe and compliant
+	✓	Side by side with developers
+	✓	Automated security testing frameworks
+
+•	Utility technology player
+	✓	Involved in development
+	✓	Sprint planning
+	✓	Operates on multiple fronts
+
+Continuous Integration, configuration management and continuous delivery 
+devOps Lifecycle include
+	•	Continuous integration
+	•	configuration management
+	•	Continuous  delivery
+	•	Continuous  monitoring 
+	•	Continuous  testing
+	•	Continuous  deployment
+
+	•	Continuous integration
+	✓	central repository
+	✓	Continuous compiling, testing
+	✓	Code verification
+	✓	Identifying bugs early
+	✓	Software in smaller chunks
+	✓	Easy integration
+
+•	configuration management
+	✓	System changes
+	✓	Multiple server
+	✓	Tracking changes
+	✓	Types of CM tools
+	✓	Scripted builds
+	✓	identical development and production environments
+
+	•	Continuous  delivery
+	✓	Deploying the application
+	✓	Incremental or small changes
+	✓	Compatible with schedule releases
+	✓	Every change -ready to deploy
+
+   •	Continuous  monitoring 
+	✓	Starts from Sprint 1
+	✓	Infrastructure monitoring
+	✓	Application performance monitoring (APM)
+	✓	Log management monitoring
+	✓	Security monitoring
+	✓	3 major steps
+	1)	Monitoring
+	2)	Alert system
+	3)	Action to take
+
+   •	Continuous testing
+	✓	Speed and quality
+	✓	Testing incremental changes
+	✓	Automated tests
+	✓	Tests to be atomic
+	1.	Continuous testing during development
+	2.	Confidence to release
+	3.	Integration with CI
+
+  •	     Continuous  deployment
+	✓	Superset of continuous delivery
+	✓	Deploying to production
+	✓	Automates the deployment pipeline
+
+Explore Git, Vagrant and Docker
+
+What is version control?
+	•	Multi-user version management system
+	•	Adding files
+	•	Changing/modifying files
+	•	Deleting files
+	•	Saving them
+	•	Snapshot
+	•	keeps track - version number
+	•	When?
+	•	Who?
+	•	Why?
+	•	Contents
+
+Version control management tools?
+	•	Apache Subversion (SVN)
+	•	Concurrent Version System (CVS)
+	•	Git
+	•	Mercurial
+
+What is Git?
+	•	Distributed version control
+	•	Remote repository
+	•	Local repository
+	•	user can make changes on local repository
+	•	Pull/edit/commit/push
+	•	Branches/merge
+
+Github Overview:
+	•	Repository hosting service
+	•	Web-based graphical interface
+	•	Provide access control
+	•	unlimited public repositories
+	•	Limited private repositories
+	•	Collaborators on all plans
+	•	Organisational accounts
+
+Git operations:
+	•	Initiating local GIT repository
+	•	Linking with Github
+	•	Adding files
+	•	Branching
+	•	Merging
+	•	Push
+
+Vagrant-Lightweight, Reproducible and Portable development environment
+
+Overview of Vagrant
+	•	Building and managing a VM environment
+	•	Easy-to-use workflow
+	•	Focus on automation
+	•	Lowers development environment setup time
+	•	increase environmnet parity
+
+Component of Vagrant
+	•	Providers:
+	✓	Backend of Vagrant
+	✓	VirtualBox
+	✓	Vmware
+	✓	Hyper-V
+	✓	vCloud
+	✓	AWS
+
+	•	Boxes
+	✓	Predefined images
+	✓	Public Vagrant box catalog
+ 
+	•	   Vagrantfile
+	✓	A Ruby fiels
+	✓	How many VMs
+	✓	Configure VMs
+	✓	Provision VMs
+	✓	Committed to version control
+
+	•	Provisioners
+	✓	Automatically install software, after configuration
+	✓	Boxes may not be complete use case for you
+	✓	Multiple options
+	✓	Shell Script
+
+	•	Provisioners are - 
+	1.	Ansible
+	2.	Chef
+	3.	Docker
+	4.	Puppet
+
+Operation of Vegrant
+	•	Adding a vagrant box:
+	1.	Syntax: vagrant box add <name> <url> <provider>
+	2.	Example: vagrant box add ubuntu/trusty32
+
+	•	Listing and removing vagrant boxes:
+	1.	vagrant box list
+	2.	Vagrat box remove
+
+Creating a VM environmemt:
+	•	Syntax:vagrant init <your box name>
+	•	Example : vagrant init ubuntu/trusty32
+
+Starting a VM environment
+	•	vagrant up ubuntu/trusty32
+	•	vagrant up
+
+Connecting
+	•	vagrant ssh ubuntu/trusty32
+	•	vagrant ssh
+
+Stopping, restarting and destroying
+	•	Vagrant halt
+	•	Vagrant reload
+	•	Vagrant destroy
+
+Provisioning of vagrant
+	•	Creating a VM and provisioning it with Apache installed and port following
+	•	Add these lines in Vagrantfile
+Config.vm.network “forward_port”, guest:80, host :8080 
+Config.vm.provision ‘shell’, path : ‘provision.sh’
+
+	•	Create provision.sh file with these entries:
+	✓	sudo apt-get update
+	✓	sudo apt-get install -y apache2
+
+	•	Destroy and start the virtual machine:
+	✓	vagrant destroy
+	✓	vagrant up
+
+	•	Finally access Apache from the host machine
+
+The Role of Docker in the DevOps Cycle 
+What is Docker 
+	•	Open platform
+	•	Build, ship and run applications
+	•	Popular because:
+	1)	Flexible
+	2)	Lightwieght
+	3)	Interchangeable
+	4)	Portable
+	5)	Scalable
+
+Installing Docker
+	•	Install the curl package:
+Sudo apt-get install curl -y
+	•	use curl to download GPG Keys for official docker repository
+Curl -fsSL
+Https://download.docker.com/linux/ubuntu/gpg  | sudo apt-key add -
+	•	Add the Docker repository to APT sources
+Sudo add-apt-repository “deb [arch=amd64] https://download.docker.com/inux/ubuntu$(lsb_release -cs) stable”
+	•	Update APT and install docker-ce
+Sudo apt-get update
+Sudo apt-get install -y docker-ce
+	•	Adding username to the Docker group :
+Sudo user mod -aG docker ${USEr}
+
+	•	Run Docker 
+docker -v
+
+	•	Pulling images
+	✓	docker pull nginx
+	✓	docker pull https
+
+	•	Inspecting images:
+	✓	docker inspect nginx
+
+	•	Running an image
+	✓	docker run -d nginx
+
+	•	Inspecting and status of Docker containers:
+	✓	docker inspect cntainer_id
+	✓	docker ps
+
+	•	Connecting to the running image:
+	✓	docker exec -it container_id /bin/bash
+
+	•	inside the running container
+	✓	apt-get update
+	✓	apt-get install  elinks
+	✓	link http://localhost
+
+	•	Stopping a container
+	✓	docker stop container_id
+
+	•	Removing a container
+	✓	docker rm container_id
+
+Role of Docker in DevOps
+	•	Container-based virtualisation
+	•	User-friendly
+	•	Testing code and easy rollback
+	•	changes sharing, testing and deploying of applications
+	•	Automation friendly
+
+Docker Networking
+	•	Docker to Docker
+	•	Docker to non-Docker workloads
+
+Mostly used type of Docker Networking
+	1.	Bridge networks:
+	•	The default network driver
+	•	Appications run in standalone containers that need to communicate
+
+ 2. Overlay networks:
+	•	Connect multiple Docker daemons together
+	•	Enable swarm services to communicate with each other
+
+
+Docker Basic Networking
+Step 1: create a network and volume
+Step 2: start docker containers
+Step 3: Test connectivity between these containers
+
+Step 1: create a network and volume
+	•	Listing and creating a network 
+	✓	docker network ls
+	✓	docker network create net1
+
+	•	Listing and creating a volume
+	✓	docker volume ls
+	✓	docker volume create —driver=local —name=volume1
+
+Step 2: start docker containers:
+	•	docker run -it —name=container1 -v volume1:/opt —network=net1 busy box sh
+	•	docker run -it —name=container2 -v volume1:/opt —network=net1 busy box sh
+
+Step 3: Test connectivity between these containers
+	•	Ping containers with their names
+	✓	Ping container1
+	✓	ping container2
+
+Overlay Networking 
+Step 1: initiate docker swarm
+Step2: create overlay network and spin a docker container on host1
+Step3: spin a container on host2 and check its networks
+Step4 : login to the containers check its networks and ping each other
+
+Step 1: initiate docker swarm
+	•	Host1: Check network and initiate docker swarm:
+	✓	docker network ls
+	✓	docker swarm init
+
+	•	  Host2: initiate swarm worker and check its networks:
+	✓	docker swarm join  —token SWMTKN-284vwxnket6feploi97gkk. …… 192.168.10.91:2377 docker network ls
+
+Step2: create overlay network and spin a docker container on host1
+	•	Create an overlay network 
+	✓	docker network create -d overlay —attachable=true swarm net
+ 
+	•	List networks:
+	✓	docker network ls
+
+	•	Spin a Docker container
+	✓	docker run -itd —name conatiner1 —network swarm net busy box
+
+Step3: spin a container on host2 and check its networks
+	•	Listing networks 
+	✓	docker network ls
+
+	•	Spin a Docker container
+	✓	docker run -itd —name conatiner2 —network swarm net busy box
+
+	•	List networks and see new network:
+	✓	docker network ls
+
+Step4 : login to the containers check its networks and ping each other
+	•	Host1: Log in to the container, check IPs, and ping container on Host2:
+	✓	docker exec -it container1 sh
+	✓	ifconfig
+	✓	ping container2
+
+•	Host2: Log in to the container, check IPs, and ping container on Host1:
+	✓	docker exec -it conatiner2 sh
+	✓	ifconfig
+	✓	ping container1
+
+Docker Depp Dive with use cases:
+	•	WordPress blogging site
+	•	With 4 container
+	1)	NGINX
+	2)	WordPress
+	3)	Varnish
+	4)	MySQL
+
+	•	Docker images
+	✓	Wordpress
+	✓	MariaDB 
+
+	•	Build customised images
+	✓	Varnish 
+	✓	NGINX
+
+Configuration files
+Docker configuration file:
+	•	docker-compose.yml
+	•	Hynix/Dockerfile
+	•	varnish/Dockerfile
+
+Applications of configuration files:
+	•	nginx/site.conf
+	•	varnish/default.vcl
+
+Docker-compree.yml
+Version: 2
+Services:
+Varnish:
+Build:varnish
+Ports: -80:80
+depends_on:
+-ngnix
+Hynix:
+Build:ngnix
+
+Docker container
+	•	Downloading the application files
+	•	Starting the containers
+
+Configuration management and clustering in DevOps
+
+Configuration management  Tools with Chef, Puppet and Ansible
+
+Introduction to configuration management:
+	•	Configuring machine/server
+	•	Server to reach a desirable state
+	•	Automation - an essential role
+	•	Advantages of. Configuration management:
+	✓	Reduces redundant work
+	✓	Effectively manages simultaneous updates
+	✓	Avoids configuration-related problems
+
+Chef:
+	•	Configuration management tool written in Ruby and Erlang
+	•	Streamline the task of configuring and maintaining server
+	•	Can integrate with cloud based platforms
+	•	Has solution for both small and large scale systems
+	•	Run in client/server mode or a standalone configuration
+
+Chef Server:
+	•	Central registry or brain of the entire process
+	•	Acts as a hub for configuration data
+	•	Information about the infrastrure
+	•	Stores Cookbooks - policy for nodes/clients
+
+Chef Client:
+	•	Installed on machine/nodes
+	•	Connects with chef server
+	•	Fetches cookbooks
+	•	Executes them on machines/nodes
+	•	Does almost all of the configuration work needed on machine/nodes
+
+Puppet 
+	•	Open source configuration tool
+	•	Written in Ruby
+	•	Define the state of the It infrastructure
+	•	Then automatically enforces the correct state
+	•	Manages configuration of UNIX-like MS windows systems
+	•	Puppet manifests -describes the system’s resources and state
+
+Puppet : Server -Client
+	•	Puppet agent Is installed on all machines/nodes which need to be managed
+	•	Agents communicate with the server and fetch configuration instructions
+	•	Agent applies configuration on the nodes and sends a status report to server
+	•	Devices can run Puppet agent as a daemon, triggered as a cron job
+
+Ansible
+	•	Open source platform
+	•	Used for configuration, orchestration and deployment
+	•	Manage resources using SSH
+	•	Built on Python
+	•	Agentsless -no client installation
+
+Ansible -operations
+	•	Resources are added to the Ansible configuration
+	•	SSH authorised keys or sudo credentials are configured to manage resource
+	•	Ansible’s master server communicates with resources using SSH and perform all the necessary tasks
+	•	Ansible deploys module to resources
+	•	Monitors quantities such as CPU resources
+
+Ansible – Provisioning, Configuration Management, and Application Deployment Tool
+
+Provisioning
+
+	•	Ansible can provision:
+	✓	Cloud platforms
+	✓	Virtualised hosts
+	✓	Hypervisors
+	✓	Network devices 
+	✓	Bare-metal server
+	•	Integrate with data centre tools to invoke and enact the provisioning steps
+	•	Large available modules give you flexibility to manage your diverse environment
+
+Configuration management -ansinle is used because :
+	•	Ansible is SIMPLE
+	•	Work on existing concepts -no new knowledge is needed
+	•	Designed to be minimal in nature, secure, and highly reliable
+	•	Extremely low learning curve 
+	•	Require nothing more than a password or SSH key to start 
+	•	Ansible was build by developers and sysadmins 
+	•	Shell scripting and command line 
+	•	No custom language is needed
+	•	No extra software to be installed on your servers 
+
+Application Deployment:
+	•	Ansible is the simplest way to deploy your application
+	•	Deploy multi-tier applications reliably and consistently
+	•	Can configure service and push application artefacts from one system
+	•	Write custom code as simple tasks to automate your systems
+	•	Playbooks are simple to learn write and maintain
+	•	You can write customised playbooks
+	•	Ansible hen does the hard work of getting your systems to that state 
+	•	Agentless. Design - don’t have to install any software
+
+Hands-On with Ansible
+
+	•	Installation:
+	✓	sudo apt- add-repository ppt:ansible/ansible
+	✓	sudo apt-get update
+	✓	sudo apt-get install ansible -y
+	✓	ansible —version
+
+	•	Gain access to nodes/machines:
+	✓	ssh-keygen
+	✓	ssh-copy-id
+
+	•	Setup:
+	✓	cp -R /etc/ansible local
+	✓	cd local 
+	✓	edit ansible.cfg and hosts file
+
+	•	Running ansible  commands:
+	✓	ansible -m ping all
+	✓	ansible -m shell -a ‘hostname’ all
+	✓	ansible -b -K -m user -a ‘name=John’ all
+	✓	ansible -b -K -m user -a ‘name=John state=absent’ all
+
+Roles and Playbook:
+	•	mkdir roles/basic
+	•	mkdir roles/basic/tasks
+	•	vi roles/basic/tasks/main.yml
+Name : “installing links”
+Apt : pkg=elinks state =present
+
+Items:
+	•	Vi roles/basic/tasks/main.yml
+-name :”installing package”
+Apt: pkg ={{item}} state =present
+with_items:
+-curl
+-git
+-elinks
+	•	Ansible-playbook -k playbook.yml
+
+Jenkins -Continuous integration and continuous delivery 
+	•	Open source automation server written in java
+	•	server based system
+	•	building , deploying and automating any project
+	•	manage and control software delivery process
+	•	build, document , test , package, stage and deploy 
+	•	Monitor control in the version control system and then take action
+	•	Builds can be scheduled via a cron -like mechanisms
+	•	Run tests and then take action - rolling back or rolling forward
+	•	Jenkins functionality can be extended with plugins(https://plugins.jenkins.io)
+	•	Continuous integration and continuous delivery
+
+Continuous integration
+	•	Merging all developers working copies into a shared mainline, several time a day
+	•	Prevent integration problems -“integration hell”
+	•	Good practice - each developer must do a complete build and run all unit tests before submitting
+	•	Integration tests are later done by the CI server
+Jenkis: continuous integration
+	•	Jenkins is the most popular CI tool
+	•	Offers a simple way to set up a continuous integration pipeline
+	•	Automates routine development tasks
+	•	Gives a faster and robust way to integrate the entire chain of build and test 
+	•	Jenkins controls and monitors jobs/tasks
+	•	With the Jenkins build pipeline plugin, you can create multi-stage jobs and visualize
+
+Continuous Delivery 
+	•	A practice where code changes are automatically built, tested, and prepared for release to production
+	•	CD expands upon CI - deploying all code changes to a testing and/or production environment
+	•	Provides developers with a deployment-ready build artificer that has passed through a standardised test process
+	•	Providers developers automate testing beyond unit tests
+	•	Tests may include UI testing, load testing, integration testing, API reliability testing and so on
+
+Jenkins: continuous Delivery
+	•	Jenkins is the most widely adopted solution for continuous delivery
+	•	The glue that allows you to bring both CI and CD together
+	•	has more than 1400 plugins that enable it to use best-of-breed solutions throughout the CD process
+
+Installations of Jenkins 
+	•	Add the repository and URL to the system
+	•	Update apt and install Jenkins
+	•	Unlocking Jenkins
+
+
+Configuring Jenkins with Git
+	•	Jenkis server is up and running
+	•	Git is installed and the user has a repository
+	•	Set up Jenkins with the local git repository
+	•	Such that when a commit is done on the repository, some tasks are performed by Jenkins
+	•	Changes will be done by the repository
+	•	Commit will be performed
+	•	Jenkins job will be monitored to the assigned tasks
+
+Jenkins Jobs SetUp
+	•	Go to the Jenkins server interface
+	•	Go to dashboard->new item —>enter item name : java project 
+	•	Select free style project
+	•	click on OK
+	•	under description write testing
+
+Kubernetes-Managing containerised workloads and services
+	•	Portable,extenible, open source platform
+	•	managing contairized workload and services
+	•	Facilitate declarative configuration as well as automation
+	•	Provides container grouping, load balancing , auto healing and scaling feature
+
+Key components
+	•	Pod : A group of containers
+	•	Labels: for identifying pods
+	•	Kubelet :container agent
+	•	Proxy : load balancer for pod
+	•	etc : metadata service
+	•	cAdvicer : provides resources usage/performance statistics
+	•	Replication controller :manage replication of pods
+	•	Schedular : shells pods in worker nodes
+	•	API serve : Kubernetes API server
+
+Kubernetes Architecture
+	•	Kubernetes follows a client- server architecture
+	•	Single master server but can have multi-master setup (for high availability)
+	•	Master server acts as a controlling node and point of contact 
+	•	Master components
+	•	Node component 
+
+Master component
+	•	etcd :
+	✓	 A simple distributive key value storage used to store cluster data, API objects, and service discovery details 
+	✓	Only accessible from the API server
+
+	•	cube-api-server
+	✓	Frontend to the cluster - a central management entity
+	✓	Receives all REST request for modifications
+	✓	Make sure that data is stored in etcd
+
+	•	Kube-controller-manager:
+	✓	Runs a number of distinct controller processes
+	✓	Regulates shared state of the cluster and performs routine tasks
+	✓	Controler spots the change and starts working to get the new desired state
+
+	•	Kubelet:
+	✓	Main service on a node
+	✓	Ensuring that pods and their container are healthy and running in the desired state
+	✓	Reports too the master on the health of the host where it is running
+
+	•	Kube-proxy
+	✓	Runs on each worker node
+	✓	Deal with individual host subnetting and expose services to th external world
+	✓	Performs request forwarding to the correct pods/container across various isolated networks in a cluster
+
+	•	Pods
+	✓	Group of one or more container
+	✓	Specification on how to run the container
+	✓	Container within a pod share an IP address and port space
+	✓	Applications within a pod also have access ti shared volumes
+
+	•	cAdviser
+
+	✓	Provides resources usage and performance statistics
+	✓	Collects, aggregates, process, and exports information about running container
+
+Minikube
+	•	A tool that make it easy to run Kubernetes locally
+	•	Runs a single-node kubernetes cluster
+	•	Useful to try out Kubernetes
+Check the pod is up and running
+Kubectl get pod
+Start the Kubernetes dashboard
+Minikube dashboard
+
+Monitoring Solution in DevOps
+DevOps monitoring solution using Monit and Nagios
+
+Introduction to monitoring
+	•	Service monitoring 
+	•	Operation monitoring
+	•	Needs tools
+	•	Dozens of servers, serving few users?
+	•	Therefore you need monitoring services
+
+Important practices
+	•	Collecting the data
+	•	Correlate and diagnose
+	•	Identifying trends
+	•	Notify and act using automation
+
+What is Monit?
+	•	A free, open source supervision tool
+	•	System status can be views directly Fromm the command line or via web server
+	•	Fairly uniquely suits the needs of the Ruby-on -Rails community
+	•	Many popular Rails sites have used, including Twitter and Scribd
+
+What Monit Can Do
+	•	Proative
+Acts in an error situation
+Monitor process characteristics
+
+	•	Monitor processes:
+Daemon processes or programs
+Ones started with system boot
+
+	•	Files, directories and filesystems
+Monit can monitor files, directories, and the filesystems
+Useful for security reasons
+
+	•	Cloud and hosts:
+Network connection to various servers
+TCP, UDP and Unix domain socket are supported
+Network tests can be performed on a protocol level
+Built-in tests for the ,main internet protocols
+Configure monit to send any data and test the response from the server
+
+	•	Test programs and scripts:
+Test programs or scripts at certain times, much like cron
+Set the exit value of a program and perform an action
+Send an alert if the exit value indicates an error
+Can write scripts for any type of check
+
+	•	Monitor system:
+Monitor general system resources
+CPU usage, memory and load average
+
+Nagios
+	•	Free and open source software application
+	•	Originally designed to run under LInux
+	•	Monitor systems, networks and infrastructure 
+	•	Offers monitoring and alerting services for servers, switches , applications and services 
+	•	Alerts when things go wrong and alerts back when the problem is resolved
+
+Feature of Nagios
+	•	Comprehensive monitoring
+	•	visibility and awareness
+	•	Problem remediation
+	•	Proactive planning
+	•	Reporting
+	•	Multi-tenant capablity 
+	•	Customisable code
+
+Set up and configuring Nagios
+
+	•	Preequisties for Nagios : Page and PHP
+	•	System dependency and utilities
+	•	create Nagios system user and group
+	•	Add nags account to the Apache www-data group
+	•	download Nagios core from its website
+	•	Extract Nagios tarball
+	•	Configure Nagios
+	•	Build nagios files: make all
+	•	Install nagios binaries : sudo make install
+	•	Install nagios init daemon and external command mode configuration file and enable the Nagios daemon system-wide:
+	•	Installing nagios sample configuration files: sudo make insatll -config
+	•	Installing nagios configuration file for apache webs erver
+	•	Creating a nagiosadmin account so that apache server can log in the Nagios web panel
+	•	Allowing APche HTTP server to execute nagios cgi scripts and to access the Nagios admin Panel via HTTP
+	•	TIme to log in Nagios web interface
+
+Infrastructure Monitoring Using Nagios
+
+Installs nagios plugins 
+	•	Installing dependency
+	•	Download plugins sources
+	•	Extract the nagios plugins source code tarball
+	•	Compile and install plugins form source
+	•	Nagios plugins
+	•	Restart nagios daemon
+
+Nagios Client (CentOS 7)
+	•	EPEL repository configuration
+	•	Now install the NRPE
+	•	configure the NPRE add-on. Add the Ip address of the server
+	•	configure Nagios checks
+
+Configure nags server for remote clients
+	•	create a command definition to use the check_nrpe plugin
+	•	Add the following Nagios command definition to the file
+	•	Add linux Client  host to Nagios server by creating a client configuration file
+	•	Add these lines
+	•	Verify for any errors
+	•	Restart the nagios server
+
+
+DevOps  best Practices and Security
+
+Best practices in DevOps Lifecycle
+	•	cultural change 
+	•	Version control
+	•	Test - Driven Development (TDD)
+	•	Automation
+	•	housing the right tools
+	•	Documentation
+	•	Securing infrastructure
+
+DevOps As a Cultural change 
+	•	Leave silos and work as one collaborative unit
+	•	Actual change - the way of thinking
+	•	Communicatio/collaboration
+	•	No blame game
+
+DevOps As a Version Control
+	•	Building environments - scripted and saved
+	•	Testing as well as rest of the Devops
+
+Test - Driven Development (TDD)
+	•	Write automated test code -input, error , output
+	•	Automated test FAILS at first run
+	•	Start writing code
+	•	Test with automated tests
+	•	Fix the code until all tests are passed 
+	•	Clean up code
+	•	Refactor code
+
+Automation
+	•	Important aspect - speed
+	•	Reduces errors, costs and time
+	•	Makes you focus on development
+	•	Automating builds - faster and easier
+	•	Adopting automation throughout the DevOps lifecycle
+
+Choosing the right tools!
+	•	Check for your requiremnets
+	•	Compatible tools
+	•	Evaluate the tools available
+	•	Get your team strong in using those tools
+	•	Prefer the most widely used tools
+
+Documentation
+	•	Document everything
+	•	Reports
+	•	Change management
+	•	Processes
+	•	Infrastructure
+	•	Layouts
+
+Securing Infrastructure
+	•	Compliance from the beginning
+	•	Verify vulnerabilities
+	•	Use security best practices
+
+Security Best Practices in DevOps
+	•	Security is must throughout the DevOps lifecycle
+	•	Without disturbing speed and agility
+	•	Team up with security teams
+	•	The DevSecOps Model
+
+The DevSecOps Model
+	•	Developing more secure applications
+	•	Everyone is responsible for security
+	•	Tools and automation
+	•	Community driven event
+
+Enforce Security policies and Governance
+	•	Communication and governance
+	•	Policies and procedures
+
+Automating DevOps Security Processes
+	•	Automation minimises human error risk
+	•	Prioritise deployment of automated tools
+
+Security practices
+	•	Comprehensive research
+	•	Vulnerability management
+	•	Rely on configuration management
+
+Container’s Security
+	•	Avoid using root
+	•	Limit container networking
+	•	Run a hardened kernel
+	•	Use OS security modules
+
+Monitoring and Logging
+	•	Maximize monitoring
+	•	Logging logs from all infrastructure
+
+Tools for security Checks in Each cycle of DevOps
+	•	Yet another cultural issue
+	•	Improve integration between security testing suite and developers’ tools
+	•	The production code gets into a better spot to handle real-world attacks
+
+Security Tools
+	•	Using TDD
+	•	Security-focused framework
+	✓	Gauntlt - focuses on Ruby development 
+	✓	Mittn - Python deveopment
+	✓	BDD- Security - Java development
+
+Pre-Commit security tools
+	•	INCLUDES SOME SECURITY ACTIVITIES AND TOOLS BEFORE CODE IS CHECKED INTO THE VERSION CONTROL SYSTEM :
+	✓	Git-hound
+	✓	OWASP Threat Dragon
+	✓	SonarLint
+	✓	Puma scan
+
+Continuous Integration Security Tools
+	•	ESLint
+	•	Mocha
+	•	OWASP dependency check
+	•	Docker bench
+
+
+Continuous Delivery Security Tools
+	•	Listing security check before, during, and after code is deployed in production
+	•	slabs-scan
+	•	OSQuery
+	•	Ansible vault
+	•	Samhain
+
+Operation Security Tools
+	•	Operation of continuous security monitoring, testing, audit, and compliance checks
+	•	Chaos monkey
+	•	OpenSCAP
+	•	Grafana
+	•	ElastAlert
+
+
